@@ -1,0 +1,1860 @@
+Will use tool 'Tesseract (sh)'
+Available languages: osd, eng, equ
+Will use lang 'eng'
+=================================================
+------------------------------
+hondana7
+file_name : ./trims/hondana7/1.jpg
+Sink
+‘
+1m
+15
+‘5’.
+‘1:-
+
+(D
+E
+§‘§
+on
+an;
+
+9.,
+
+5;
+
+g
+
+12
+
+file_name : ./trims/hondana7/4.jpg
+SMITH
+a:
+ram
+D
+nU
+91m
+=52.
+9°;
+37’:
+a;
+9:
+BEL
+UH<
+U}.
+5
+
+file_name : ./trims/hondana7/0.jpg
+:umiAN
+M
+>
+3
+'U
+=
+2
+G5
+—|
+
+l'l'l
+n
+:2
+E
+3
+a
+
+file_name : ./trims/hondana7/2.jpg
+5E
+gé
+=2
+2%
+EX
+3
+
+file_name : ./trims/hondana7/3.jpg
+E
+i
+
+------------------------------
+hondana10
+file_name : ./trims/hondana10/1.jpg
+I“
+‘>
+3
+“U
+=
+z
+9
+—|
+rn
+ﬂ
+=
+5
+O
+C
+"1
+m
+
+file_name : ./trims/hondana10/4.jpg
+gs
+gm
+$2
+>
+53%
+ﬁ§
+:33
+I?
+
+file_name : ./trims/hondana10/0.jpg
+sum
+a;
+"Um
+I)
+as
+=§
+2.0a
+3::
+03:1
+:1.“
+SE?
+B»
+|uz~3<‘
+| :9.
+
+V)
+
+file_name : ./trims/hondana10/5.jpg
+kl}
+ﬂ
+
+file_name : ./trims/hondana10/2.jpg
+m
+W
+a
+B
+3%
+2a
+9..
+5%
+8
+
+file_name : ./trims/hondana10/3.jpg
+
+
+------------------------------
+hon5
+file_name : ./trims/hon5/1.jpg
+2
+§
+
+file_name : ./trims/hon5/4.jpg
+{mi
+LU!
+;>
+;3
+:«V
+‘~':
+2 ‘
+a
+—1
+ll'I‘I
+n
+a:
+12
+_
+8
+
+i
+
+file_name : ./trims/hon5/0.jpg
+.d
+55’,
+2—!
+DC
+DC
+I'c
+
+J
+a
+E2
+
+2
+
+file_name : ./trims/hon5/5.jpg
+5%
+gm
+35
+3?.
+§§
+253
+i
+0’
+ﬂ?
+
+file_name : ./trims/hon5/2.jpg
+SMITH
+‘4 :1
+E m
+B 9
+= 22.
+“M;
+3: n:
+on :v
+a. g
+3‘ :1
+B a
+m E.
+
+U)
+0mm“
+
+file_name : ./trims/hon5/3.jpg
+u
+m
+E
+g
+g;
+91:
+«1’
+90
+‘3
+n
+m
+
+------------------------------
+954531
+file_name : ./trims/954531/1.jpg
+$5
+'5'!“
+are
+3.2
+85
+2
+g»
+2
+3'0
+ﬁg
+<
+2%
+i
+A-13
+-6
+<1)
+£5:
+
+file_name : ./trims/954531/0.jpg
+I
+E
+9?
+a;
+.‘
+{I
+,.
+El
+\
+
+file_name : ./trims/954531/2.jpg
+g . A
+8 (mum
+,2
+m
+>
+a ‘
+‘9 ~
+I: :
+z
+a, ,
+‘ —I
+"I
+n
+=
+a
+3 o
+:s: E
+3 M
+\, mmw m
+
+file_name : ./trims/954531/3.jpg
+I;
+i
+‘>
+a
+I:
+‘3
+9
+>
+I—
+2
+FA
+E
+(D
+I11
+2
+O
+l'l'l
+
+------------------------------
+9452821265199
+file_name : ./trims/9452821265199/7.jpg
+5
+$2"
+:2
+35
+Z
+>
+is
+:1
+D
+ﬁg
+<
+%3
+3
+;
+A-B
+&
+0'
+£2
+
+file_name : ./trims/9452821265199/1.jpg
+11‘
+c
+3
+m
+
+:3
+
+\g
+
+(‘D
+
+3
+
+I9
+
+‘<
+
+'—(
+
+'3
+
+3
+
+§
+
+g.
+
+8
+
+9.
+
+i
+
+Q
+
+3,
+
+§
+
+g
+
+3g
+
+file_name : ./trims/9452821265199/4.jpg
+E
+L".
+1
+a
+o
+0
+Fl
+ID
+2
+z
+o
+$-
+5
+r
+
+file_name : ./trims/9452821265199/8.jpg
+a;
+n:
+I
+5?.
+0%
+‘32
+31>
+d
+n
+>
+,.
+E
+
+file_name : ./trims/9452821265199/6.jpg
+'U
+>
+8
+>
+I—
+
+file_name : ./trims/9452821265199/0.jpg
+E
+5
+3
+u
+:
+E
+E
+2
+E
+E
+E
+E
+;
+E
+,
+-€
+5
+
+file_name : ./trims/9452821265199/5.jpg
+>
+m
+=
+I
+9
+>
+r-
+2
+H
+E
+(D
+m
+2
+0
+rrl
+
+file_name : ./trims/9452821265199/9.jpg
+E
+§
+5
+§
+
+file_name : ./trims/9452821265199/2.jpg
+‘
+J
+5
+§
+
+file_name : ./trims/9452821265199/3.jpg
+
+
+------------------------------
+hon2
+file_name : ./trims/hon2/1.jpg
+Ir
+%3
+:e _«
+
+3
+
+I
+
+I
+
+H E
+
+i=5
+
+fit?
+;
+E
+i
+,
+K,
+\m
+
+file_name : ./trims/hon2/4.jpg
+(DOIW
+V!
+>
+3
+1
+=
+2
+C,
+.4
+l'l'l
+ﬂ
+3:
+E
+O
+C
+m
+U5
+
+file_name : ./trims/hon2/0.jpg
+23>
+g:
+:0
+I11
+112’.
+Go
+:2
+>5
+£3:
+'3:
+
+file_name : ./trims/hon2/2.jpg
+5E
+
+3%
+2.2
+i=2
+5°
+ﬁg
+:2
+5;
+
+file_name : ./trims/hon2/3.jpg
+SMITH
+3?
+ram
+$9
+#m
+'30?
+:3
+as»
+09:!
+3.;
+":9:
+Ba
+UM<
+w.
+
+23
+®
+
+------------------------------
+954532
+file_name : ./trims/954532/1.jpg
+§
+§
+2.
+ii
+\3
+
+file_name : ./trims/954532/0.jpg
+g
+s
+>
+:0
+:I
+I
+9
+>
+I—
+12
+;-I
+*P
+5::
+[0
+I11
+2
+0
+n1
+
+file_name : ./trims/954532/2.jpg
+ga
+3;
+EU
+:53
+§
+
+file_name : ./trims/954532/3.jpg
+I (amnion
+§
+
+3
+
+Z
+
+<9 m
+3 E
+q
+
+‘<
+
+3+ 2
+m _
+1: 2
+g as.
+8. '4
+a a"
+9* :I:
+g:
+
+—
+
+.O
+Q's.
+b.
+g:
+
+51
+
+g\
+“LILHV
+hu'fﬂnu
+
+------------------------------
+hondana6
+file_name : ./trims/hondana6/1.jpg
+Ii
+
+85
+32
+i3
+#55?
+
+file_name : ./trims/hondana6/4.jpg
+SMITH
+0—]
+..,
+55’;
+a?
+’"U’
+...,_,
+{Law
+:1
+>N
+53‘:
+go.
+:3:>
+=7:
+33.
+m~<
+2’.
+m
+
+file_name : ./trims/hondana6/6.jpg
+(DOII‘
+m
+>
+3
+1
+=
+2
+G,
+—|
+l'"
+n
+=
+E
+O
+=
+I'H
+VI
+
+file_name : ./trims/hondana6/0.jpg
+All
+Muclim
+m
+minmm h»
+Theory
+_/
+\ mmw
+u . . ‘
+
+file_name : ./trims/hondana6/5.jpg
+7
+i
+ii
+i
+Q
+
+file_name : ./trims/hondana6/2.jpg
+Z
+I
+I
+u. :5
+'..'
+$2 5
+A: f:
+
+file_name : ./trims/hondana6/3.jpg
+EEVE
+EMTH
+Emmi
+E
+E
+£8
+E
+:>
+2
+O
+.53
+IE
+3%
+:—
+:4
+E
+m
+E
+
+------------------------------
+hon6
+file_name : ./trims/hon6/1.jpg
+«MIA
+All
+
+‘rndllcﬁon'
+to
+
+[amnion
+
+ﬂuory
+
+~x :anw-
+
+\ u 1 LL
+
+file_name : ./trims/hon6/4.jpg
+001i”!
+M
+>
+3
+'U
+.—
+.—
+z
+0 .
+—|
+m
+A
+=
+E
+O
+=
+In
+V!
+"wmv
+:YIHHI
+
+file_name : ./trims/hon6/0.jpg
+SMITH
+2::
+gm
+3 9
+:92.
+1°;
+>9)
+0?:
+S n.
+31>
+'5‘:
+a»;
+
+E.
+
+(II
+OXFORD
+
+file_name : ./trims/hon6/5.jpg
+i
+E
+g
+{E
+
+file_name : ./trims/hon6/2.jpg
+TI;
+2
+3
+L'Li
+a
+1:2:
+
+3;
+r:
+
+file_name : ./trims/hon6/3.jpg
+mater
+D
+a
+B
+Ea
+9,8
+0
+9..
+a
+‘12?
+O
+(D
+
+------------------------------
+954529
+file_name : ./trims/954529/1.jpg
+§
+
+5
+
+I1
+£5
+F2
+9:
+>¢
+5C
+9%
+
+file_name : ./trims/954529/4.jpg
+of
+o
+3
+E
+.3
+i’.
+a.
+m
+a.
+3
+2.
+ID
+:I
+g
+L“
+1n
+2
+3.
+§
+3.
+3
+2
+of,
+=
+‘2:
+I
+“M
+
+file_name : ./trims/954529/0.jpg
+23>:
+3?:
+m:
+Dr:
+31
+(—1
+O
+E
+E
+Z
+2—”:
+O
+E
+>
+.—
+>-
+I—
+(:1
+C)
+E
+-—1
+:1:
+E
+S’.’
+Q
+§
+
+file_name : ./trims/954529/2.jpg
+S?
+3-3.
+3
+g
+g:
+l§
+
+file_name : ./trims/954529/3.jpg
+1
+a
+o
+o
+M
+m
+2
+2
+ca
+
+------------------------------
+954524
+file_name : ./trims/954524/1.jpg
+1
+
+35
+0:
+am
+’2’:
+36
+3%
+49.
+m
+2;:
+a;
+07‘
+cf:
+W
+V»:
+
+file_name : ./trims/954524/4.jpg
+S
+3
+3.
+:s
+a:
+'u
+3
+PT
+
+file_name : ./trims/954524/0.jpg
+go
+
+:%
+
+ES
+
+"3:
+1%
+
+1‘;
+
+"C
+
+l!
+
+a x
+
+file_name : ./trims/954524/2.jpg
+FT
+3'
+O
+3
+D
+”I
+r
+U!
+m
+5’.
+'<
+9.:
+m
+05
+1:“,
+m
+"3
+‘34“.
+88
+‘02
+:0
+0%
+ml'.
+“’3
+930
+no
+rm
+
+file_name : ./trims/954524/3.jpg
+I:
+i
+3
+Z
+(D
+3
+O
+-1
+<
+.1
+:r
+m
+P
+o
+8
+5.
+B
+9..
+g
+g
+E
+5»
+3;
+5
+
+------------------------------
+hon10
+file_name : ./trims/hon10/7.jpg
+Sinh-
+m
+B
+E
+I'D
+
+9%
+8%-
+.23
+9.,
+3;
+(D
+:3
+O
+(D
+
+file_name : ./trims/hon10/1.jpg
+.
+
+2
+at
+-c
+[I
+-'l
+5:
+g;
+1!!
+I
+E!
+[I
+z
+O
+H
+
+file_name : ./trims/hon10/4.jpg
+\_
+a
+2
+=
+s
+.0
+z
+c
+3
+'3
+> ‘
+:3
+E
+—..
+o
+1
+3
+ll]
+2:
+o
+3
+U1
+m
+('1
+C
+-:
+3
+ll:
+:1:
+5.3,
+w
+
+file_name : ./trims/hon10/6.jpg
+a,
+z
+2
+—<
+‘12
+w
+e
+-n
+:-
+,__
+ea
+c
+a
+_.
+==
+3
+m
+U
+~21
+r5
+3,»
+5.:
+on
+{—2
+m.
+(
+"l:
+
+file_name : ./trims/hon10/0.jpg
+E
+i
+3
+éﬂ
+31
+ii
+
+file_name : ./trims/hon10/5.jpg
+BEREZIN
+ZHIDKO‘J
+< o
+2 O
+5 3
+o S
+" 3
+W
+Z
+‘3.
+5'
+O
+Q-
+U)
+5 g
+PEpnAM/J'
+
+file_name : ./trims/hon10/2.jpg
+duch'or
+l0
+rrmation
+.‘heary
+kcc RAWA
+u x u
+
+file_name : ./trims/hon10/3.jpg
+>0
+-r.0
+5;
+(”'0
+«a
+8‘2
+CG)
+11>
+gag
+0
+So
+I;
+11
+'DC
+|'—I
+hm
+311
+m2”)
+I’r'ﬁ
+,.
+22
+c
+G3rr
+>
+z
+D
+
+------------------------------
+9452821106814
+file_name : ./trims/9452821106814/7.jpg
+"'0
+:E
+in
+D
+I;
+So
+3%
+:9;
+F33:
+I
+5?.
+0‘
+:5.
+mi?
+\n:
+2;
+F:
+
+file_name : ./trims/9452821106814/1.jpg
+3
+g.
+S:
+
+file_name : ./trims/9452821106814/4.jpg
+w
+E
+-u
+
+file_name : ./trims/9452821106814/6.jpg
+gé
+35
+Z
+3;
+5‘0
+SE
+$5
+i
+A43
+1
+g
+
+file_name : ./trims/9452821106814/0.jpg
+‘i‘
+1H1
+EE
+2
+:E
+g;
+25
+32
+mm
+0
+
+m
+
+file_name : ./trims/9452821106814/5.jpg
+3‘
+‘EI
+3‘
+if
+«3
+a
+E
+‘i
+g
+
+file_name : ./trims/9452821106814/2.jpg
+‘U
+5
+9
+,_
+
+file_name : ./trims/9452821106814/3.jpg
+J
+C
+O
+H
+n
+'.'
+
+------------------------------
+954533
+file_name : ./trims/954533/1.jpg
+'g
+>
+m
+d
+I
+D
+>
+I—
+2
+_|
+m
+f—
+E
+m
+I'l'I
+Z
+
+to
+m
+
+file_name : ./trims/954533/4.jpg
+a ‘
+ii
+a;
+g;
+EU
+:3
+2‘3
+1
+
+A—l3
+
+file_name : ./trims/954533/0.jpg
+I
+C
+i
+E
+(D
+3
+<
+5‘
+m
+§
+3
+3'
+g
+.5.
+Q
+a
+3
+E
+3'
+.5.
+is?
+
+file_name : ./trims/954533/2.jpg
+g -
+
+.‘ twain
+
+n:
+
+3
+
+E.
+
+.3
+
+in x
+
+"D M
+
+33 >
+
+a a
+“U
+E:
+
+‘ 2
+G5.
+—|
+PH
+2
+
+E E
+
+3 O
+=
+PH
+U!
+
+Luwun
+
+file_name : ./trims/954533/3.jpg
+3
+a
+
+------------------------------
+hondana4
+file_name : ./trims/hondana4/1.jpg
+§
+E
+§
+g
+g
+z
+
+file_name : ./trims/hondana4/4.jpg
+Au
+mom-u i‘
+m
+nfnrnm
+Thcun
+u a. n m
+
+file_name : ./trims/hondana4/6.jpg
+ii
+a:
+3%
+i3
+2.
+a
+
+file_name : ./trims/hondana4/0.jpg
+mu.
+m
+>
+3
+1
+=
+2
+Q
+—|
+PH
+0.
+z:
+E
+D
+=
+"I
+v-
+um
+
+file_name : ./trims/hondana4/5.jpg
+51
+
+file_name : ./trims/hondana4/2.jpg
+i
+l l
+
+file_name : ./trims/hondana4/3.jpg
+‘MITH
+1:1
+1m
+”0
+..
+mm
+=v-
+9.0?
+:3
+3:»
+n:
+a:
+3:
+at»
+01‘:
+‘3.
+(II
+
+------------------------------
+hondana5
+file_name : ./trims/hondana5/1.jpg
+51;
+"am
+m
+~U
+“ea
+3°;
+3:»
+:3
+°8n
+13>
+n
+§§
+“‘5”
+a
+
+file_name : ./trims/hondana5/4.jpg
+l‘
+E
+3
+E
+
+file_name : ./trims/hondana5/0.jpg
+m
+km“
+3
+[Es
+13
+is
+E?'
+>
+g.
+g»
+é;
+E?
+E
+F?
+5
+
+file_name : ./trims/hondana5/5.jpg
+y l
+U!
+y
+‘5
+“a
+E:
+z
+(D
+—|
+m
+n
+=
+E
+,O
+;=
+1m
+‘9!
+$
+
+file_name : ./trims/hondana5/2.jpg
+BEZA
+An
+Introduction
+to
+Informatiun
+Theory
+.u e c n w
+
+file_name : ./trims/hondana5/3.jpg
+‘E
+‘m
+{E
+12
+:6
+3%
+E5
+m
+sé
+
+«3'5
+
+5
+
+a.
+
+------------------------------
+954528
+file_name : ./trims/954528/1.jpg
+$3
+3%
+3;
+Ea
+2g
+:53
+i
+
+2
+ﬁg"
+
+file_name : ./trims/954528/4.jpg
+I
+I!
+§
+i
+E
+
+file_name : ./trims/954528/6.jpg
+2;?
+g
+g
+«E
+
+file_name : ./trims/954528/0.jpg
+d
+
+(”MN
+
+m
+
+>
+
+3
+
+'3
+
+=
+
+2
+
+Q
+
+—|
+
+H'I
+
+n
+
+=
+
+z
+
+—
+
+D
+
+E ‘
+
+vs \
+
+. V
+
+'m' m: l
+
+file_name : ./trims/954528/5.jpg
+'o
+is?
+E
+
+file_name : ./trims/954528/2.jpg
+;-|
+:17
+'a
+O
+n
+n
+w
+3”
+2
+£9
+'3-
+.3
+'n
+O
+m
+E
+
+file_name : ./trims/954528/3.jpg
+5‘
+‘
+1
+3
+.5
+a.
+I.
+5.
+D
+E.
+g
+9.
+m
+§
+5‘
+z
+a:
+3.
+=
+a:
+.<
+<
+9.
+1
+g.
+\ “I
+
+------------------------------
+954525
+file_name : ./trims/954525/1.jpg
+ii
+3%
+a
+Ki
+g:
+3%
+
+file_name : ./trims/954525/4.jpg
+.5
+.g
+1
+I
+O
+0
+Fl
+(II
+073
+L2
+Q
+
+file_name : ./trims/954525/6.jpg
+§§
+§~§
+2.2
+86
+$2
+
+>
+
+z :
+:50
+am
+.38
+gm
+a‘l
+
+file_name : ./trims/954525/0.jpg
+E
+P”:
+2
+
+file_name : ./trims/954525/5.jpg
+E
+i.
+I
+3
+5
+E
+q
+2
+..
+E
+c.
+G
+5
+5'
+E?
+(D
+9.
+2v.
+51
+o
+O
+:3
+E.
+(D
+a
+(I:
+
+file_name : ./trims/954525/2.jpg
+>
+E
+i
+i‘
+7""
+>0
+i’ﬂ
+,..
+5%
+,.
+>§
+50
+02°
+:12
+:1)
+1%
+Ea
+O
+-n
+
+file_name : ./trims/954525/3.jpg
+(Dﬁhihﬂ
+m
+>
+g
+-u
+':
+z
+65
+_|
+"I
+n
+:I:
+‘ E
+‘ O
+=
+P"
+v:
+|m
+
+------------------------------
+9452821192865
+file_name : ./trims/9452821192865/11.jpg
+1
+i
+q
+a
+i
+g
+a
+
+file_name : ./trims/9452821192865/7.jpg
+i?
+E
+
+file_name : ./trims/9452821192865/1.jpg
+:l
+§E
+1::
+rl'ﬂ‘
+>5
+5%
+32
+in?
+:3
+LIN/I
+0
+TI
+
+file_name : ./trims/9452821192865/4.jpg
+>
+7.3
+:c
+1"
+G
+>
+,_
+
+file_name : ./trims/9452821192865/8.jpg
+’a
+T
+E
+g
+5'
+5
+3
+ﬁ
+
+file_name : ./trims/9452821192865/6.jpg
+ll
+i2
+g;
+ﬁg
+:3
+;l3
+‘ﬁ
+
+file_name : ./trims/9452821192865/0.jpg
+9::
+SE
+am
+“i;
+30
+55
+:2
+0:
+I>
+554
+O
+5,?
+a:
+o
+r2
+i”
+
+file_name : ./trims/9452821192865/5.jpg
+rn
+E
+0
+m
+Z
+O
+rn
+
+file_name : ./trims/9452821192865/10.jpg
+M
+>
+3
+'U
+:
+2
+as
+—.
+"I
+h
+3:
+‘ .2.
+‘o
+‘C
+III
+M
+M"
+“NH
+
+file_name : ./trims/9452821192865/9.jpg
+in
+a:
+7'!
+vs
+{a
+”W
+
+file_name : ./trims/9452821192865/2.jpg
+a
+i
+g
+a
+
+file_name : ./trims/9452821192865/3.jpg
+£5
+9:
+r
+a
+O
+M
+a
+2
+0
+I.L
+Z
+'1.
+1.3
+a?
+g.
+i
+x'mmi
+
+file_name : ./trims/9452821192865/12.jpg
+i
+E
+5
+

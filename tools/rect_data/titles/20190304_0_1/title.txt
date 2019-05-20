@@ -1,0 +1,489 @@
+Will use tool 'Tesseract (sh)'
+Available languages: osd, eng, equ
+Will use lang 'eng'
+=================================================
+------------------------------
+hondana7
+file_name : ./rotate_trim/hondana7/1.jpg
+g a mathematical
+theory of evidencs
+
+file_name : ./rotate_trim/hondana7/4.jpg
+E The Design and Analysis @
+5 of Parallel Algorithms
+
+file_name : ./rotate_trim/hondana7/0.jpg
+W
+
+file_name : ./rotate_trim/hondana7/2.jpg
+ma! hwnvn n”- - 7
+an: lnfnrmaﬁon Plea-Sing v2, Volumel
+
+file_name : ./rotate_trim/hondana7/3.jpg
+r—
+.nmn—mmwell ' ‘
+
+------------------------------
+hondana10
+file_name : ./rotate_trim/hondana10/1.jpg
+m
+
+file_name : ./rotate_trim/hondana10/4.jpg
+4m, EDUCATION AND SOCIETY
+“'0' Information Pmcuﬂng V2, Volume
+
+file_name : ./rotate_trim/hondana10/0.jpg
+E The Design and Analysis
+of Parallel Algorithms
+
+file_name : ./rotate_trim/hondana10/5.jpg
+3S5
+
+file_name : ./rotate_trim/hondana10/2.jpg
+a mathematical
+a theory of evidence
+
+file_name : ./rotate_trim/hondana10/3.jpg
+
+
+------------------------------
+hon5
+file_name : ./rotate_trim/hon5/1.jpg
+,' nun—www-
+
+file_name : ./rotate_trim/hon5/4.jpg
+'3 SAMPLING TECHNIQUES —=/_'.='
+
+file_name : ./rotate_trim/hon5/0.jpg
+WW
+.ncnlnAL ANALYS“
+
+file_name : ./rotate_trim/hon5/5.jpg
+mad EDUCATION AND SOCIETY g} % $
+at: Information Pmcainu 9'). Volume II <
+
+file_name : ./rotate_trim/hon5/2.jpg
+g The Design and .Analysis g
+,5 of Parallel Algonthms @g
+
+file_name : ./rotate_trim/hon5/3.jpg
+nenluuuu.
+the cry of evidence
+
+------------------------------
+954531
+file_name : ./rotate_trim/954531/1.jpg
+AIKEN EDUCATION AND SOCIEI'Y Q ‘1
+m Information hocessing 92, Volume [I 4: 1; Q
+
+file_name : ./rotate_trim/954531/0.jpg
+A L “0" n. ”.21 Lani“..-
+
+file_name : ./rotate_trim/954531/2.jpg
+j SAMPLING TECHNIQUES /,
+
+file_name : ./rotate_trim/954531/3.jpg
+wm IAL INTELLIGENCE WA“
+
+------------------------------
+9452821265199
+file_name : ./rotate_trim/9452821265199/7.jpg
+m EDUCATION AND scam '2
+.... I_l_~-o|rvn mama 92, Volume ll & ‘3 ﬁ
+
+file_name : ./rotate_trim/9452821265199/1.jpg
+Human Memory The Processingof Information Lollus- meus 3'
+,1__ _ WA 7‘ «
+
+file_name : ./rotate_trim/9452821265199/4.jpg
+LIST PROCESSING J. M‘ Fog‘nr
+
+file_name : ./rotate_trim/9452821265199/8.jpg
+A: MATHEMATICAL Be.
+Tsrumourss '
+
+file_name : ./rotate_trim/9452821265199/6.jpg
+PASCAL
+
+file_name : ./rotate_trim/9452821265199/0.jpg
+Alwen ma muuuuumu m anunluu muuyu-r-
+
+file_name : ./rotate_trim/9452821265199/5.jpg
+' ARTIFICIAL INTELLIGENCE
+
+file_name : ./rotate_trim/9452821265199/9.jpg
+vwmau' 5(hwarzkop'
+
+file_name : ./rotate_trim/9452821265199/2.jpg
+’“Iuvvull
+
+file_name : ./rotate_trim/9452821265199/3.jpg
+W
+
+------------------------------
+hon2
+file_name : ./rotate_trim/hon2/1.jpg
+
+
+file_name : ./rotate_trim/hon2/4.jpg
+:EF‘fTSTWT’TTWET—Efﬁrimm'
+
+file_name : ./rotate_trim/hon2/0.jpg
+A FIRST COURSE ll‘
+NUMERICAL ANAL‘
+
+file_name : ./rotate_trim/hon2/2.jpg
+m EDUCATION AND SOCIETY :
+at» Information Procesing ‘72, Volume II 4
+
+file_name : ./rotate_trim/hon2/3.jpg
+E The Design and Analysis @;
+of Parallel Algorithms E
+
+------------------------------
+954532
+file_name : ./rotate_trim/954532/1.jpg
+Programming Pearls Danny
+
+file_name : ./rotate_trim/954532/0.jpg
+wmswn ARTIFICIAL INIEHGENCE mi
+
+file_name : ./rotate_trim/954532/2.jpg
+”ma EDUCATION AND SOCIETY
+Edi! Information Processing 92, Volume II
+
+file_name : ./rotate_trim/954532/3.jpg
+SAMPLINéIECHMQyEsﬂW ggj
+Human Memory TheProcessingoflmmnatbn Lollus-Lohus 2::
+
+------------------------------
+hondana6
+file_name : ./rotate_trim/hondana6/1.jpg
+3‘ EDUCATION AND SOCIETY '2 _
+Iv Information Prooesing 72. Volume [I 42 2E
+
+file_name : ./rotate_trim/hondana6/4.jpg
+E The Design and Analysis @E
+5 of Parallel Algorithms 2
+
+file_name : ./rotate_trim/hondana6/6.jpg
+g SAMFE’NG’iEEiTN—IQUESW
+
+file_name : ./rotate_trim/hondana6/0.jpg
+72 2:2-
+‘5 “’3 !:
+==S€_= a:
+< 1—:
+E;
+
+file_name : ./rotate_trim/hondana6/5.jpg
+Programming in 3d 2m
+
+file_name : ./rotate_trim/hondana6/2.jpg
+mammweu 2:112: " "
+
+file_name : ./rotate_trim/hondana6/3.jpg
+ESE PARALLEL PROCESSING ANDARTIFICLALINTELUGENUL
+
+------------------------------
+hon6
+file_name : ./rotate_trim/hon6/1.jpg
+:l g 15.? i.-
+25E253
+
+file_name : ./rotate_trim/hon6/4.jpg
+SAMPLING TECHNIQUES 3%
+
+file_name : ./rotate_trim/hon6/0.jpg
+E The Design and Analysis @%
+§ of Parallel Algorithms g
+
+file_name : ./rotate_trim/hon6/5.jpg
+‘61—“ WW" s.wW' . man-m:
+
+file_name : ./rotate_trim/hon6/2.jpg
+r: nWWhVGII M“ “W“
+
+file_name : ./rotate_trim/hon6/3.jpg
+i a mathematical
+theory of evidence
+
+------------------------------
+954529
+file_name : ./rotate_trim/954529/1.jpg
+ﬁ
+
+file_name : ./rotate_trim/954529/4.jpg
+Commuter-Aided Design of Electric Machinery Velnon 1%;
+
+file_name : ./rotate_trim/954529/0.jpg
+55:23:, COMBINATORIM. ALGORITHMS: Generaﬁon‘ Enumeranon, and 52m
+
+file_name : ./rotate_trim/954529/2.jpg
+EQWM Science mum We
+AWW ,A...
+
+file_name : ./rotate_trim/954529/3.jpg
+I' PROCESSING
+
+------------------------------
+954524
+file_name : ./rotate_trim/954524/1.jpg
+APPLICATiGNS GE: MA’ZI'E ‘1 :il‘. \‘ H 31.
+PROGRAMMING TECHNIQUES
+
+file_name : ./rotate_trim/954524/4.jpg
+—P'roqramming Pearls
+
+file_name : ./rotate_trim/954524/0.jpg
+C
+A L Ana-m Th. up Dunning!- " ,, # ,i
+-
+
+file_name : ./rotate_trim/954524/2.jpg
+a ema Ica e o s
+Th L.s t m t” F [m m a
+\ was a” of Operations Research
+
+file_name : ./rotate_trim/954524/3.jpg
+Human Memory The Processingoflnformatim Louus. Lollus g
+!__._"-
+
+------------------------------
+hon10
+file_name : ./rotate_trim/hon10/7.jpg
+a mathematical
+theory of evidence
+
+file_name : ./rotate_trim/hon10/1.jpg
+' “' " CUMPU'IER SCIENCE
+1|». u/x m“...
+—
+
+file_name : ./rotate_trim/hon10/4.jpg
+JohnMMunksr «a An |nformation Securiin $33:
+
+file_name : ./rotate_trim/hon10/6.jpg
+HNALYSIS 0F ALGORITHMS V K3273
+
+file_name : ./rotate_trim/hon10/0.jpg
+v-vawnu-wds‘wmv - man-Wu "IIIIIIIIIIIIIE
+
+file_name : ./rotate_trim/hon10/5.jpg
+§ 2 Computing Methods ‘gj
+E E Volume I *9 g
+
+file_name : ./rotate_trim/hon10/2.jpg
+. a ‘
+° .2 >
+'5 -b“
+3933‘:
+13.35 g:
+
+file_name : ./rotate_trim/hon10/3.jpg
+W
+A HRST COURSE WITH PL/I smut} m3
+
+------------------------------
+9452821106814
+file_name : ./rotate_trim/9452821106814/7.jpg
+xPPLlCATIONS 0F MA i'Hm‘dA i am.
+-A... . nulun TECHNIQUES
+
+file_name : ./rotate_trim/9452821106814/1.jpg
+My WWW;
+
+file_name : ./rotate_trim/9452821106814/4.jpg
+SAM?
+
+file_name : ./rotate_trim/9452821106814/6.jpg
+man EDUCATION AND SOCIETY 5;
+ma lulu-“marina Mm: 91Volume ll < \ ﬁ
+
+file_name : ./rotate_trim/9452821106814/0.jpg
+ﬁ
+
+file_name : ./rotate_trim/9452821106814/5.jpg
+mm I‘x’ogrammmg m am sumo"
+
+file_name : ./rotate_trim/9452821106814/2.jpg
+. PASCAL
+
+file_name : ./rotate_trim/9452821106814/3.jpg
+- "lI’UCFQQI
+
+------------------------------
+954533
+file_name : ./rotate_trim/954533/1.jpg
+Winéwq ARTIFICIAL INTELLIGENCE LxLli-u .
+
+file_name : ./rotate_trim/954533/4.jpg
+EDUCATlON AND SOCIETY ‘74 1: V
+“25'. l—hrmzlinn Processinq 92, Volume II < " $259
+
+file_name : ./rotate_trim/954533/0.jpg
+Human emory he ocessnngo normam us~
+
+file_name : ./rotate_trim/954533/2.jpg
+‘2 SAMPLING TECHNIQUES
+’rogrammiqg'lffzirls , Bentley l
+
+file_name : ./rotate_trim/954533/3.jpg
+mm: Programming in mi 3:
+
+------------------------------
+hondana4
+file_name : ./rotate_trim/hondana4/1.jpg
+GAL N
+M; ANDARTYH
+PROCESS
+
+‘E PARALLEL
+
+Egg-
+
+file_name : ./rotate_trim/hondana4/4.jpg
+53225:
+O . a
+l; “3‘55
+
+file_name : ./rotate_trim/hondana4/6.jpg
+,r... souomoN AND SOCIETY '2
+— monn-uon housing 91 Volume 11 <' a
+
+file_name : ./rotate_trim/hondana4/0.jpg
+i3, SAMPLING TECHNIQUES é
+
+file_name : ./rotate_trim/hondana4/5.jpg
+1.th
+
+file_name : ./rotate_trim/hondana4/2.jpg
+mmm‘" ”
+
+file_name : ./rotate_trim/hondana4/3.jpg
+E The Design and Analysis @
+2 A! Parallel Algorithms ‘
+
+------------------------------
+hondana5
+file_name : ./rotate_trim/hondana5/1.jpg
+The Design and Analysm @
+of Parallel Algorithms
+
+file_name : ./rotate_trim/hondana5/4.jpg
+A, I Emu-mums“
+
+file_name : ./rotate_trim/hondana5/0.jpg
+ﬁg; wmmmmomncmummcmcg H
+
+file_name : ./rotate_trim/hondana5/5.jpg
+- SAMPLING TECHNIQUESW
+
+file_name : ./rotate_trim/hondana5/2.jpg
+< é it;
+~ == 5!: h
+a: <33§5 $2
+a i 3 2
+
+file_name : ./rotate_trim/hondana5/3.jpg
+m EDUCATION AND SOClEH
+‘ - m-w Messing 91, Vo\ume
+
+------------------------------
+954528
+file_name : ./rotate_trim/954528/1.jpg
+m EDUCATION AND SOCIETY .2
+“1 Information homing 92, Volume II 3: .a %
+
+file_name : ./rotate_trim/954528/4.jpg
+l Findlavxma»
+
+file_name : ./rotate_trim/954528/6.jpg
+Computer Science mm WW“
+AModemhtroduchon
+
+file_name : ./rotate_trim/954528/0.jpg
+i' g SAMPLING rumours ,3)
+
+file_name : ./rotate_trim/954528/5.jpg
+PASCAI
+
+file_name : ./rotate_trim/954528/2.jpg
+Igﬁmﬁﬁsma ,1, M. pom
+
+file_name : ./rotate_trim/954528/3.jpg
+1" 77-...-.7nmm nagiun of Eleciric Machinery Veinon =
+
+------------------------------
+954525
+file_name : ./rotate_trim/954525/1.jpg
+Computer s—nR—WWcIe 9mm "
+AModemInvodm“ Jill—’1
+
+file_name : ./rotate_trim/954525/4.jpg
+.IST PROCESSENG
+
+file_name : ./rotate_trim/954525/6.jpg
+——-*"“'~ _
+m EDUCATION AND SOClETY
+W Information Wing 92, Volume
+
+file_name : ./rotate_trim/954525/0.jpg
+PASCA!
+
+file_name : ./rotate_trim/954525/5.jpg
+F,
+XIWL-n Ma Introduction ‘0 Theoretical Computer 5
+
+file_name : ./rotate_trim/954525/2.jpg
+ﬁ‘
+
+file_name : ./rotate_trim/954525/3.jpg
+SAMPLING mnmours
+u Ag“-
+
+------------------------------
+9452821192865
+file_name : ./rotate_trim/9452821192865/11.jpg
+
+
+file_name : ./rotate_trim/9452821192865/7.jpg
+I rn
+Acm1pmummm§cml1ce mum causcmogemmm m.
+
+file_name : ./rotate_trim/9452821192865/1.jpg
+
+
+file_name : ./rotate_trim/9452821192865/4.jpg
+
+
+file_name : ./rotate_trim/9452821192865/8.jpg
+mug-Hum Computer Science
+
+file_name : ./rotate_trim/9452821192865/6.jpg
+_ WTION AND SOCIETY 12
+-ilurlmﬁoanu1ngVZVolmll <' \ﬁﬂ
+
+file_name : ./rotate_trim/9452821192865/0.jpg
+APPLICATIONS OF MATHEMATICAL 8m
+PROGRAMMING TECHNIOIJF<
+
+file_name : ./rotate_trim/9452821192865/5.jpg
+
+
+file_name : ./rotate_trim/9452821192865/10.jpg
+
+
+file_name : ./rotate_trim/9452821192865/9.jpg
+COMPUTER :
+
+file_name : ./rotate_trim/9452821192865/2.jpg
+Wmnm Whooesshgofmnam Loms‘ L:
+
+file_name : ./rotate_trim/9452821192865/3.jpg
+u't PROCESSING .1, M. Fonur m
+PASCAL - Fndlayawm _ é
+
+file_name : ./rotate_trim/9452821192865/12.jpg
+' 3m Ennlon
+

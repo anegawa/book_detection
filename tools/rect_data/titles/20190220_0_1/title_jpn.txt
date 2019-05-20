@@ -1,0 +1,1540 @@
+Will use tool 'Tesseract (sh)'
+Available languages: eng, jpn, jpn_vert
+Will use lang 'jpn_vert'
+=================================================
+------------------------------
+hon11
+file_name : ./trims/hon11/0.jpg
+Ps
+SS
+vV
+T
+d
+|
+N
+9
+半
+ココ
+Dj)
+有
+N
+用
+0
+上 中
+ラコ
+SS
+
+ミニ
+ニュ ュ ニー
+
+file_name : ./trims/hon11/1.jpg
+|
+
+file_name : ./trims/hon11/3.jpg
+|
+ー
+
+file_name : ./trims/hon11/2.jpg
+アニ
+【
+還 人 加重
+ii
+4
+で 流出 生還 g
+ロー
+p
+ー ジ に ジー ビ さ に ーー
+|
+【 下
+ご コー ヒ ニー とこ は
+os
+m
+導 呈 人 人 人
+ー ニ た に ーー
+Ti
+ーー
+ーー
+Ga
+
+file_name : ./trims/hon11/4.jpg
+eo
+名
+8
+の
+也
+ーー
+還
+
+file_name : ./trims/hon11/5.jpg
+oz
+|
+TO I
+4 ーー と 重い
+人
+呈
+還 還 |
+舞 和
+で Vcu
+| 生 夫 し
+出
+mm
+mm
+ーー
+ ,
+っ Ss
+
+------------------------------
+hon3
+file_name : ./trims/hon3/0.jpg
+人
+g
+g
+|
+PP
+Ii
+ー]
+…
+mp
+| 人 い
+Op
+『 T 二
+店
+い 還
+s 芯
+- 語 還
+- 生還
+|
+] D
+人 還
+本
+m
+
+file_name : ./trims/hon3/1.jpg
+箇 過
+層
+上
+村
+_
+マト
+間
+の
+[の
+
+file_name : ./trims/hon3/3.jpg
+NY
+nH
+BB
+UL
+C20
+mM
+N
+3 ヨ
+ma
+N
+SsS
+年
+
+file_name : ./trims/hon3/2.jpg
+|
+w
+回 -
+同人
+し 半
+1
+PP&8
+Vu
+生還
+op V
+上 財 肌
+T 富 人 人
+し 人
+LN
+人
+T
+に に
+D)
+弘
+0
+有川
+SS
+答 に ヒヒ
+
+------------------------------
+hondana_eng
+file_name : ./trims/hondana_eng/0.jpg
+
+
+file_name : ./trims/hondana_eng/1.jpg
+加
+…
+
+file_name : ./trims/hondana_eng/3.jpg
+|
+
+file_name : ./trims/hondana_eng/2.jpg
+ーー
+【
+|
+
+file_name : ./trims/hondana_eng/6.jpg
+
+
+file_name : ./trims/hondana_eng/4.jpg
+
+
+file_name : ./trims/hondana_eng/5.jpg
+ずい
+【 - 可
+上 症 早計 っ
+ーー だ o
+人 業 n
+也 : 臣
+較 コジ mM
+N
+を ココ
+T 軍 向っ 二 還
+ご 上 下
+T っ 。
+は 四 中
+で
+下
+Sv
+さ
+て
+7
+|
+
+------------------------------
+hon2
+file_name : ./trims/hon2/0.jpg
+NY
+MM 上
+H
+組
+UL
+C20
+nm
+Wa
+WE
+7
+
+file_name : ./trims/hon2/1.jpg
+ァ
+e
+ーー
+
+肢
+
+に
+
+芋 て
+
+エ
+天
+「
+で
+{
+和
+人
+
+file_name : ./trims/hon2/3.jpg
+ロミ に
+e
+TE。 癌 に
+|
+pa
+u
+上
+人 還
+mp
+mm
+m 吉
+いい 還 人
+SS
+S
+
+file_name : ./trims/hon2/2.jpg
+|
+
+本
+ww
+mx
+ag
+融
+…
+
+file_name : ./trims/hon2/4.jpg
+9
+ce
+vv
+TL
+ad
+|
+MN
+9
+1
+と
+)
+Mn
+呈
+0
+和 上
+『
+SS
+
+------------------------------
+hon8
+file_name : ./trims/hon8/0.jpg
+ーー
+|
+ーー
+合
+
+file_name : ./trims/hon8/1.jpg
+了 半
+和
+天
+表 。
+ww 較
+寺 ]
+wm
+HH e 和
+国人
+すい
+人
+噴
+』 人
+】』
+
+file_name : ./trims/hon8/3.jpg
+,'
+…
+風
+
+file_name : ./trims/hon8/2.jpg
+-
+
+file_name : ./trims/hon8/7.jpg
+人
+m
+…
+…
+e
+N
+
+file_name : ./trims/hon8/6.jpg
+,
+お
+ーー
+っ
+正
+N
+ひき
+計
+
+file_name : ./trims/hon8/4.jpg
+ん
+
+file_name : ./trims/hon8/5.jpg
+d
+S
+を
+
+------------------------------
+hondana6
+file_name : ./trims/hondana6/0.jpg
+に
+っ ea
+に
+を
+デュ
+| し 還 噴 和
+衝 ビ と
+人 人
+
+file_name : ./trims/hondana6/1.jpg
+ー
+「
+人
+
+file_name : ./trims/hondana6/3.jpg
+ビー
+と ニー
+と
+副
+m
+較
+て
+マー
+アー
+紀
+有
+男
+ーッ
+加
+和
+|
+了
+
+file_name : ./trims/hondana6/2.jpg
+ロー
+[ーー
+衣
+FE
+am
+て
+
+file_name : ./trims/hondana6/6.jpg
+G2g
+SS
+vv
+朋
+ad
+MN
+9
+=
+nu
+DD
+Um
+引
+0
+中
+『
+SS
+
+file_name : ./trims/hondana6/4.jpg
+ロミ ニニ に
+pu
+_ ル と
+は
+計
+ls
+山 -
+Pa
+下
+人
+5 凍
+で 敵 U
+m
+mm 還
+中
+で 用
+世
+S
+
+file_name : ./trims/hondana6/5.jpg
+ー
+
+------------------------------
+hon4
+file_name : ./trims/hon4/0.jpg
+ミ
+
+file_name : ./trims/hon4/1.jpg
+SS
+V
+WW
+本
+症
+N
+9
+1
+ココ
+D
+有
+服
+0
+婦
+SsS
+だ に
+ーー
+
+file_name : ./trims/hon4/3.jpg
+RB
+ーー
+4
+に
+
+file_name : ./trims/hon4/2.jpg
+ジェ
+下
+GB
+|
+D
+
+file_name : ./trims/hon4/6.jpg
+時
+T 押 に
+|
+|
+本 合い
+uO
+N
+mw
+で
+mg
+T
+0
+dn
+
+file_name : ./trims/hon4/4.jpg
+9
+に
+ma
+周
+出
+テロ
+u
+人
+て 凍 和
+mk
+還
+T 生 UL
+as
+品
+S
+
+file_name : ./trims/hon4/5.jpg
+N 紀
+日
+WYU
+BES
+1
+[A
+
+WO
+[ 呈
+W
+NB ヨ
+人 MN
+SS
+
+S
+
+王
+. 人
+
+------------------------------
+hon12
+file_name : ./trims/hon12/0.jpg
+人
+=
+T 半 mm
+条
+
+人 還 o
+|
+
+mw
+N
+
+て 記
+区 す
+人 還 ロ
+し 下
+
+て 疾 還 -
+ーー
+| 血
+
+file_name : ./trims/hon12/1.jpg
+て
+eu
+・ 還 に
+箇 a
+pa
+豆 記
+pa
+
+T
+Yu
+5 凍
+で 宙
+mV
+pm
+mp
+四
+…・
+て に
+
+file_name : ./trims/hon12/3.jpg
+、
+還
+」
+で
+…
+エー
+
+file_name : ./trims/hon12/2.jpg
+S
+vV
+T
+lu
+mi
+N
+9
+MM
+『 コ
+D
+Tu
+0
+山
+S
+,
+
+file_name : ./trims/hon12/4.jpg
+っ 計
+っ S
+|S
+【 SS
+日
+v |
+周 m
+S 記 p |、
+匠 0
+e
+芝 W || 還
+NO m 計
+ーー n_n
+ュー
+mo
+S
+日 S 電
+画 い ロロ
+』 |
+還 | 8
+本 還 N | s_ 庁
+加 還 | | め
+軸 還 HH 』
+M
+王 8
+一 邊 し 」
+琴 還 人 ]
+tv 8
+還 全 N e
+ー
+国 m
+9
+m 弓
+
+------------------------------
+hon
+file_name : ./trims/hon/0.jpg
+GB
+S NY
+) nmH
+脱 ||WMU
+dd_aus
+中 | の ou
+Moo
+上 王 Ya
+- 有 |WS
+D_ma
+且 | WM
+WM_s
+mm
+人 中
+S
+
+L
+に 人 還
+
+file_name : ./trims/hon/1.jpg
+、
+!
+…
+e
+
+file_name : ./trims/hon/3.jpg
+ニニ に
+ne 還 に
+半
+な S
+pa
+下 ]
+は
+(1
+人
+op
+トー
+T 還 L
+SA
+中
+て
+本
+
+file_name : ./trims/hon/2.jpg
+ーー
+性 ヒ に
+mm
+mu
+T
+MM
+N
+人
+れ D
+m 和 人
+u
+
+正
+アイ
+に
+
+------------------------------
+hondana3
+file_name : ./trims/hondana3/0.jpg
+玩
+代
+の
+下
+アム
+
+例
+と
+。
+
+file_name : ./trims/hondana3/1.jpg
+89 を
+SS
+IA
+WM
+sd
+
+file_name : ./trims/hondana3/3.jpg
+W
+噴
+』
+財
+中
+』
+』
+- 加
+中
+pp
+
+file_name : ./trims/hondana3/2.jpg
+召 結
+沖 皇
+司 中
+nn
+NC
+N
+| 上
+日
+人
+1
+nv
+ーー
+TL
+出
+ーー
+孔
+「
+回
+避
+0
+
+file_name : ./trims/hondana3/6.jpg
+で
+に
+に
+に
+きき ぶ
+
+file_name : ./trims/hondana3/4.jpg
+ロミ ミニ
+て
+上
+本
+Ps
+1
+ーー
+wp
+義生
+半生
+和 六 りー
+】 て
+人
+
+file_name : ./trims/hondana3/5.jpg
+ミ
+ニ
+ぁ
+L
+
+------------------------------
+hon9
+file_name : ./trims/hon9/0.jpg
+m ロ mm トラ
+ト エ スロ
+A ル 3
+pp
+mm
+ep
+| Uu
+8
+p
+届
+0
+p
+Ss
+本
+mn ミュ
+
+file_name : ./trims/hon9/1.jpg
+|
+ーー
+男
+ーー
+| ー い AM
+an0
+凶
+Ti
+朋
+nu
+ーー
+ii
+T
+則 串
+TL
+ー い AM
+下
+-
+人
+ュ m
+*
+と
+る る 人
+
+file_name : ./trims/hon9/3.jpg
+|
+|
+ー 必
+
+file_name : ./trims/hon9/2.jpg
+] ざさ 】 に
+|
+ーー
+|
+当
+
+------------------------------
+hondana7
+file_name : ./trims/hondana7/0.jpg
+の
+SS
+M
+朋
+d
+中
+N
+9
+pu
+
+と
+DD
+上
+有
+串
+S
+
+file_name : ./trims/hondana7/1.jpg
+アー
+|
+wm
+】
+【 還
+|
+ー ビ
+の
+0 生 が 』
+近
+下
+ー)
+
+file_name : ./trims/hondana7/3.jpg
+!
+
+file_name : ./trims/hondana7/2.jpg
+世
+【
+到
+』
+
+file_name : ./trims/hondana7/4.jpg
+て ミニ
+中
+g。 還 に
+ーL
+和
+ua
+は
+トト
+wp
+還
+mp
+人
+了 ・
+S
+
+------------------------------
+hondana4
+file_name : ./trims/hondana4/0.jpg
+Sg
+SS
+V
+WMW
+本
+間
+N
+9
+上
+|
+D
+
+T
+過
+0
+外
+3
+SS
+(ニー
+
+file_name : ./trims/hondana4/1.jpg
+還
+邊
+
+file_name : ./trims/hondana4/3.jpg
+ニュ は
+ん
+da
+-
+E 3
+ーー
+rg8.
+u
+5
+人 還
+いり
+mg
+SA
+に
+、
+
+file_name : ./trims/hondana4/2.jpg
+。
+m
+
+file_name : ./trims/hondana4/6.jpg
+臣
+|
+玉
+mu
+て
+
+file_name : ./trims/hondana4/4.jpg
+で
+に
+に
+ミコ ミミ
+同 go3
+軍人
+
+file_name : ./trims/hondana4/5.jpg
+
+
+------------------------------
+hon7
+file_name : ./trims/hon7/0.jpg
+ニア 人
+ー』
+ーー ビン g
+人 人
+ー コ に て ビエ
+に
+コン に に に | 主
+エニ 豆
+ロレ
+人
+人生
+|
+| G
+
+file_name : ./trims/hon7/1.jpg
+p
+paG
+し 人
+pg
+T
+Tu
+ー
+mV
+り 負 出
+表
+ek
+和光
+| どこ
+
+file_name : ./trims/hon7/3.jpg
+-
+ー
+
+file_name : ./trims/hon7/2.jpg
+oo
+S
+V
+前
+dd
+
+file_name : ./trims/hon7/4.jpg
+』
+-
+』
+。
+
+file_name : ./trims/hon7/5.jpg
+!
+
+------------------------------
+hon5
+file_name : ./trims/hon5/0.jpg
+ri
+コ S
+al
+sn
+VO
+Tn
+
+SN
+W
+Ss
+
+file_name : ./trims/hon5/1.jpg
+で
+
+file_name : ./trims/hon5/3.jpg
+記
+ー
+m
+ロ
+mo
+基
+
+上
+ーー
+
+file_name : ./trims/hon5/2.jpg
+< に
+pu
+和 a
+pa
+し
+pg8
+人
+ルル
+由
+m 生
+誕生
+ー< よ ・ 衝 本
+
+file_name : ./trims/hon5/4.jpg
+9
+で
+V
+四
+MM
+=
+N.
+9
+1
+トー
+1
+HH
+TL
+WW
+串
+]
+だ に
+
+file_name : ./trims/hon5/5.jpg
+臣
+ビー
+9
+w
+人
+則
+CA
+ー
+
+------------------------------
+hon10
+file_name : ./trims/hon10/0.jpg
+|
+wm
+の
+。
+s |
+“|
+】|
+画
+人
+
+file_name : ./trims/hon10/1.jpg
+=
+「
+ao
+7
+nn
+m
+aa
+S
+に
+ma
+基
+o
+還
+
+file_name : ./trims/hon10/3.jpg
+か 和
+WO
+WNW
+に
+CN
+上
+bN
+人
+CO
+MO
+nA
+下
+人 上
+jj 日
+上
+器
+|
+で
+(る
+人
+N
+AA
+ーー
+
+file_name : ./trims/hon10/2.jpg
+ご ビ
+に
+ーー
+デマ
+に ン 0
+。
+
+file_name : ./trims/hon10/7.jpg
+アニ
+gB
+m
+m
+ー ビ
+
+中
+
+AT
+
+玉
+
+GB
+
+ーー
+
+D
+
+ーー
+
+file_name : ./trims/hon10/6.jpg
+MM
+ーー 出
+ーー
+T
+ーー
+ぐい v
+上
+ーーL
+Ti
+由
+Ln!
+00
+ーー
+T|
+um
+一
+ぐ v
+
+で
+|
+| ん 還 1
+和 衝 1
+(人 過
+0 守
+中
+4 書
+
+本
+1
+
+file_name : ./trims/hon10/4.jpg
+9
+
+吾
+
+叫
+
+WW
+
+0
+
+MM
+
+呈
+
+豆
+
+串
+
+AM
+Uu
+上
+間
+0
+MM
+半
+PP
+0
+U
+5
+う ヨ 3
+D
+n
+MM
+噴
+
+h
+上
+
+と
+=
+
+file_name : ./trims/hon10/5.jpg
+mm コス m ト ラー
+ト エ デス ロ ー
+AC
+p 0
+me
+amp
+1 u
+8
+W
+MM
+0
+p
+Ss
+nos ミ <
+
+------------------------------
+hondana9
+file_name : ./trims/hondana9/0.jpg
+略
+m
+、
+ー ビ
+
+加
+全員
+細
+隔
+玉
+pp
+mm
+- ら 』
+
+file_name : ./trims/hondana9/1.jpg
+問
+
+mm
+|
+ュ
+[
+wo
+wm
+人
+
+file_name : ./trims/hondana9/2.jpg
+ジニ ーー エ
+9 1
+と 人 本
+アム
+【。 還
+に
+Pa
+人 人
+還 uv
+ご 生還 MW
+op
+人
+NM
+和 還 9
+_、 衝 mi
+に こ
+D
+TL
+N 雷 革
+0 一 開 他
+川 還
+S_
+誤っ 一 隊
+
+------------------------------
+hon6
+file_name : ./trims/hon6/0.jpg
+アニ ニュ
+リロ
+私 ニー
+剛
+っ
+V T
+か
+還 い
+ーー
+人
+邑 中
+で
+ー ミ の
+
+file_name : ./trims/hon6/1.jpg
+ーー レト
+> シン ョ
+ーー
+に
+に
+デニ と に
+スン
+ニー
+
+file_name : ./trims/hon6/3.jpg
+中
+g
+m
+mm
+mg
+AT
+攻
+下
+ー
+Ga
+
+file_name : ./trims/hon6/2.jpg
+生
+半
+お
+正
+
+ア
+
+file_name : ./trims/hon6/4.jpg
+oo
+SS
+uv
+有 W
+8
+『
+人
+上
+9
+と
+Dj
+1
+有
+0
+條
+ヨコ
+SS
+ロビ
+ー ざ ゴ ニ
+
+file_name : ./trims/hon6/5.jpg
+|
+…
+』
+
+------------------------------
+hondana10
+file_name : ./trims/hondana10/0.jpg
+アニ
+T
+すす ・ 還
+ーー
+|
+| に ご
+り 革
+ーー 還
+人
+pp
+mg
+-S.4
+] |
+
+て
+
+file_name : ./trims/hondana10/1.jpg
+S
+iL
+WW
+d
+一
+N
+9
+TI
+5
+DD
+則
+訳
+0
+邊
+3
+SS
+
+file_name : ./trims/hondana10/3.jpg
+エー
+
+file_name : ./trims/hondana10/2.jpg
+アー
+
+B
+
+下
+
+|
+
+em
+上
+
+file_name : ./trims/hondana10/4.jpg
+油
+|
+ぶ
+下
+MV
+「
+マー
+の 4
+工
+
+file_name : ./trims/hondana10/5.jpg
+[た
+舟
+
+------------------------------
+hondana8
+file_name : ./trims/hondana8/0.jpg
+|
+記 m
+アン m
+この
+ーー マー
+ー 4
+e mm の
+アア mp s
+人 環 し WW
+和男 前
+pe li
+計 軸 回
+了 還 に 人 聞
+L 記 0
+人 還 し 】
+生
+印 7
+較 WM
+ーー | し
+の
+人 9
+條 還 ー|
+所
+| 生還 生 有 還
+還 人 一
+kN き E 革
+
+------------------------------
+hondana5
+file_name : ./trims/hondana5/0.jpg
+用 了
+王
+も
+人
+姜
+m 還
+ニー
+下 還 0
+マー
+還 、
+下 還
+還
+nm 還
+過
+較
+本
+
+file_name : ./trims/hondana5/1.jpg
+で
+回 に
+ーー
+っ
+om
+ラー
+人
+お ロ
+dp
+還
+mw
+加
+由
+ーー
+て
+
+file_name : ./trims/hondana5/3.jpg
+ーー
+|
+0
+和
+6
+中
+』
+
+file_name : ./trims/hondana5/2.jpg
+人
+ンー
+】 ロ oo
+ーー
+ー コ ミミ ゴゴ
+ニニ
+アス ビ う に
+
+file_name : ./trims/hondana5/4.jpg
+ーー
+m
+
+file_name : ./trims/hondana5/5.jpg
+=
+3
+iL
+id
+ト
+MN
+9
+ll
+で
+j)
+上
+肘
+0
+和
+ru
+ーー
+|
+

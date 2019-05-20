@@ -1,0 +1,500 @@
+Will use tool 'Tesseract (sh)'
+Available languages: osd, eng, equ
+Will use lang 'eng'
+=================================================
+------------------------------
+hondana7
+file_name : ./rotate_gray/hondana7/1.jpg
+"W ‘-?:-~'--“‘.‘~; ..
+3&3“ 1:,- ﬁg; $1. éf’ . ’ . ,
+"”"5' ”'" ' :1;...L.;,.,,
+
+file_name : ./rotate_gray/hondana7/4.jpg
+. " ivivyﬂsd n V ‘ {A
+l J "WW” = Is: .,,, , ~.,—a
+M: ‘i ‘{Iy)L¢$£li£tj€ﬂﬂﬂ§¢k 3'..‘,‘:‘.'§¥"1";:ij,‘ ; ‘ ¢ ‘ .,
+_ , _» x Jrumfmﬂ 4 5 1:, M‘s,“ W , ,
+' I ’* ‘a‘fiiiiaﬁwéﬁimsémss sh .
+
+file_name : ./rotate_gray/hondana7/0.jpg
+" SM» 2| ﬁrming?”
+
+file_name : ./rotate_gray/hondana7/2.jpg
+‘ "r“ ,, M233. ‘ﬂg—xxe a my
+=Mfffﬁ;
+
+file_name : ./rotate_gray/hondana7/3.jpg
+g, » , , , ~- ,— tau-m.
+
+------------------------------
+hondana10
+file_name : ./rotate_gray/hondana10/1.jpg
+SAMPﬁmﬂi‘o’iEs‘
+
+file_name : ./rotate_gray/hondana10/4.jpg
+“”*”€\ Ema-n.
+
+file_name : ./rotate_gray/hondana10/0.jpg
+m“
+’6‘ W. may m A: :4. ‘
+WM r m at $521..-“
+
+file_name : ./rotate_gray/hondana10/5.jpg
+
+
+file_name : ./rotate_gray/hondana10/2.jpg
+233'?“ ..”
+
+:5 ‘2‘ w ~3,.'::;':;ﬁv4.“"'sl _'l‘ «gm ‘_,_
+
+tum - nwmmam
+.____k , H ,
+
+file_name : ./rotate_gray/hondana10/3.jpg
+"W4 ’ L ¥ _
+
+------------------------------
+hon5
+file_name : ./rotate_gray/hon5/1.jpg
+
+
+file_name : ./rotate_gray/hon5/4.jpg
+_
+VI: . :
+, . ,. 1 . _ x s
+
+file_name : ./rotate_gray/hon5/0.jpg
+
+
+file_name : ./rotate_gray/hon5/5.jpg
+‘ A '."“*‘.‘7 m‘nwﬁn’eﬂ EH14;
+
+file_name : ./rotate_gray/hon5/2.jpg
+_ M :‘Lef/ Marv”? 1L;\L: ~r"-,"~ ‘ ' a ,. :
+{33;};531 Ki}? 7? «~er “:2". u s»: ., ‘
+“91., '3“ ragga“, ; ’7»; . . as:- .' n - . ,. 2f , :3
+' " Hume Tigris . , "s-" ‘
+A. 0.1.; "x.:~--u a: -
+
+file_name : ./rotate_gray/hon5/3.jpg
+WWW
+~Ww ‘ @315;
+
+------------------------------
+954531
+file_name : ./rotate_gray/954531/1.jpg
+.91! i a
+
+file_name : ./rotate_gray/954531/0.jpg
+
+
+file_name : ./rotate_gray/954531/2.jpg
+‘3 SAMPlINGﬁTECZVHNIdUES
+PASCAL n Fmd!ay&Wan ':£
+
+file_name : ./rotate_gray/954531/3.jpg
+2”” ART'F'CWA ”~77 1A., _ i ,1:}: 5
+
+------------------------------
+9452821265199
+file_name : ./rotate_gray/9452821265199/7.jpg
+» » -«~ur:»»iv’i'<”d1?w_ "a
+_ mum'ﬂ’A‘A’eLtt‘TlV214»
+
+file_name : ./rotate_gray/9452821265199/1.jpg
+HumanMemory “WWW“W ‘W'W E
+f?" » n NANDANALYSISQF
+, ,4» N :‘f 'ELALGORITHMSWM “
+
+file_name : ./rotate_gray/9452821265199/4.jpg
+f
+my a» f WWW W.
+v A...“ 4 u. ~11. r
+
+file_name : ./rotate_gray/9452821265199/8.jpg
+-~ - ,_ ., MATICAI- .
+
+file_name : ./rotate_gray/9452821265199/6.jpg
+*‘PKSCAL
+
+file_name : ./rotate_gray/9452821265199/0.jpg
+WWWW
+
+file_name : ./rotate_gray/9452821265199/5.jpg
+WRIIHCIAE W- 3
+
+file_name : ./rotate_gray/9452821265199/9.jpg
+
+
+file_name : ./rotate_gray/9452821265199/2.jpg
+rm
+
+file_name : ./rotate_gray/9452821265199/3.jpg
+
+
+------------------------------
+hon2
+file_name : ./rotate_gray/hon2/1.jpg
+
+
+file_name : ./rotate_gray/hon2/4.jpg
+‘" " “SAM ING‘TEcHNiouE‘s“
+
+file_name : ./rotate_gray/hon2/0.jpg
+WWW k. ‘
+NUMERICALA A!
+
+file_name : ./rotate_gray/hon2/2.jpg
+J;V;2.Jj‘;~‘;!.ﬁfl“=re’im '4
+, =35. \; My. 0, .. ‘
+- w "7MB? " ”mm ‘ «‘ » .
+
+file_name : ./rotate_gray/hon2/3.jpg
+v , ' 1:12,»,3‘ 3'. 9' 3,56 ;. . 1‘ '
+' a'jﬁﬁmtgggumgé 12115. «4* i
+
+‘ , r ‘ 2377;:92’2‘?‘ fawiara :2« = ’5: ‘
+vugm.‘ 3 ' I‘v- » ~' v» w m - a ‘
+
+------------------------------
+954532
+file_name : ./rotate_gray/954532/1.jpg
+._
+
+file_name : ./rotate_gray/954532/0.jpg
+.Jii Iii“! JIE’IIIEEHM ~~ 5: H.
+
+file_name : ./rotate_gray/954532/2.jpg
+7, :iygmjagmsm
+: "v ”Mm -ng92,Volume
+
+file_name : ./rotate_gray/954532/3.jpg
+E‘" ' ’ SM 1G TECHNIQUES ' '-
+HumanMemory “$de W'W
+
+------------------------------
+hondana6
+file_name : ./rotate_gray/hondana6/1.jpg
+‘ ~. mgr 3 $
+
+file_name : ./rotate_gray/hondana6/4.jpg
+x04 -;r“‘*‘.53'»~ Emu“ " v“ 1,. . ., 33;" ..
+
+ut',‘ ,LMVN-WEVL {Law ,1 .531, «rm: :,:.>_;£?~i,v‘7._~ » .- I .
+
+wed; wL;1;'-glé:¥j':{1:4‘:;j f‘,,*"-{.£’\_.%§§I-.gnx. V >
+,"i:H'K'fi’giiifgsiﬁ {j- I I: 'll'ﬁﬁ . “a”
+
+file_name : ./rotate_gray/hondana6/6.jpg
+
+
+file_name : ./rotate_gray/hondana6/0.jpg
+5 P 3
+
+file_name : ./rotate_gray/hondana6/5.jpg
+m
+
+file_name : ./rotate_gray/hondana6/2.jpg
+,J»mm . ,, “ 'au‘I‘
+
+file_name : ./rotate_gray/hondana6/3.jpg
+WWW I
+
+------------------------------
+hon6
+file_name : ./rotate_gray/hon6/1.jpg
+, ﬂyiﬁj >
+»' ”arm V». 71%
+
+“ » Why”
+
+" ’ > "‘3“ +57“ £1414ng!
+
+t, ._ ‘ y
+
+file_name : ./rotate_gray/hon6/4.jpg
+
+
+file_name : ./rotate_gray/hon6/0.jpg
+.2»: ,. ., '3
+WHS‘I:"“;"“3"3"¢F18'«"rh' ‘. f" .1
+
+_ .‘ “£337: is ,, , a:
+
+> _ ,_z:_;5;;;aﬁ'aég {mmv‘hf’ : ’ ,= 5a: "4'3
+
+file_name : ./rotate_gray/hon6/5.jpg
+
+
+file_name : ./rotate_gray/hon6/2.jpg
+
+
+file_name : ./rotate_gray/hon6/3.jpg
+rﬁéﬁdww “ I:'-\:{‘:’"FM 0‘. .wd'ence-
+
+------------------------------
+954529
+file_name : ./rotate_gray/954529/1.jpg
+49AIA, .
+
+file_name : ./rotate_gray/954529/4.jpg
+m. WWW“ ' ~ ~ ,
+
+file_name : ./rotate_gray/954529/0.jpg
+W NIH-91»; 1 g 1'
+1; 1 In_ 1551;11mﬁomnd5mh
+
+file_name : ./rotate_gray/954529/2.jpg
+
+
+file_name : ./rotate_gray/954529/3.jpg
+
+
+------------------------------
+954524
+file_name : ./rotate_gray/954524/1.jpg
+’ ‘W‘Lgsggor MATHEMATasAL
+5 u :;:.:e:;g§‘::§: " .k .
+
+file_name : ./rotate_gray/954524/4.jpg
+
+
+file_name : ./rotate_gray/954524/0.jpg
+.“(WARTWQIQLW
+
+file_name : ./rotate_gray/954524/2.jpg
+a ema ca
+’Lfg..FLanQD§I§ti0n§zReS€8 .
+
+file_name : ./rotate_gray/954524/3.jpg
+a“ -"H _‘ - _
+': . s” o ‘: “no::~:‘ g- 33""??? . Mﬁ’rrc‘r‘w ._.
+‘l y’ i A II
+
+------------------------------
+hon10
+file_name : ./rotate_gray/hon10/7.jpg
+33%” “13“LNW 0‘ “den“
+
+file_name : ./rotate_gray/hon10/1.jpg
+
+
+file_name : ./rotate_gray/hon10/4.jpg
+mm " ﬁlo Wm&writ9H-
+
+file_name : ./rotate_gray/hon10/6.jpg
+‘m-n x “" " "M ‘ Brynn! 3
+‘AJ_|J,JJM3JJ:L,,E: ‘ IS 1' mum
+
+file_name : ./rotate_gray/hon10/0.jpg
+_IHIIHHIHIHET
+
+file_name : ./rotate_gray/hon10/5.jpg
+7“ NW ’ {‘u’ IAW'L‘L‘ . ‘. 1 LM-‘JJ @.
+BE Velm.» «AL—~—
+
+file_name : ./rotate_gray/hon10/2.jpg
+‘ “Jagﬁ-taegﬂw' -‘ ‘5“
+”zz‘m' 446 1" 613$
+1%?“ ‘- lt
+
+n»
+
+file_name : ./rotate_gray/hon10/3.jpg
+Co ﬁlmw ﬁthc‘xi m D 09519 :12 XERVSQENE'H'
+11$ * y “ r» «v “$31.17!! STEme‘AN
+
+------------------------------
+9452821106814
+file_name : ./rotate_gray/9452821106814/7.jpg
+a mass or MATHEHA | mu.
+
+file_name : ./rotate_gray/9452821106814/1.jpg
+
+
+file_name : ./rotate_gray/9452821106814/4.jpg
+
+
+file_name : ./rotate_gray/9452821106814/6.jpg
+“an i \ ‘
+'za'.':m:r7.\':-“‘MLL - " ‘
+
+file_name : ./rotate_gray/9452821106814/0.jpg
+15‘: “.2 {wt—1 ANDANALYSISOF
+J _ 2.7; = - o-rrHMS
+
+file_name : ./rotate_gray/9452821106814/5.jpg
+W“—
+W» mmmmm W
+
+file_name : ./rotate_gray/9452821106814/2.jpg
+
+
+file_name : ./rotate_gray/9452821106814/3.jpg
+- rﬂucrce-
+
+------------------------------
+954533
+file_name : ./rotate_gray/954533/1.jpg
+
+
+file_name : ./rotate_gray/954533/4.jpg
+
+
+file_name : ./rotate_gray/954533/0.jpg
+
+
+file_name : ./rotate_gray/954533/2.jpg
+‘ SAMPLING TECHNIQUES
+’rogramming Figérls Bentley
+
+file_name : ./rotate_gray/954533/3.jpg
+
+
+------------------------------
+hondana4
+file_name : ./rotate_gray/hondana4/1.jpg
+«5&3 Wmmm
+
+file_name : ./rotate_gray/hondana4/4.jpg
+
+
+file_name : ./rotate_gray/hondana4/6.jpg
+—IE’- 3“
+
+file_name : ./rotate_gray/hondana4/0.jpg
+fwfﬂﬁﬁ‘é i'E‘C'Hﬁ‘I’IIOUES ' "‘5
+
+file_name : ./rotate_gray/hondana4/5.jpg
+_» Viz) 3g",. 7
+”up L‘ul- 4: III-n
+~ 7‘1. 51E“ M: 1W}, a
+.- ‘ :27." an .
+
+file_name : ./rotate_gray/hondana4/2.jpg
+Maw-WWW: ”
+
+file_name : ./rotate_gray/hondana4/3.jpg
+: “‘"it”‘-'?*rt'u::éif‘?é§1;9-’W ‘. |_ 3:?
+Wi’i‘“\|hhv,1k~‘ Fl?!“ ,
+
+------------------------------
+hondana5
+file_name : ./rotate_gray/hondana5/1.jpg
+" " 3 3M 23.3.3923; 3333;3WW32 ‘
+..>,..v,r 5:1 ‘3 '_4'A-Hn'.;,,‘i‘¢ﬂ". r 1. .“"e.‘~§zujv . '3 ,
+“ "_“‘.’.‘ “an "'x.aim.kmumfdé 4'3 '
+
+file_name : ./rotate_gray/hondana5/4.jpg
+
+
+file_name : ./rotate_gray/hondana5/0.jpg
+W PROCESSING AND ARTIFICIAL INTELLIGENCE
+
+file_name : ./rotate_gray/hondana5/5.jpg
+
+
+file_name : ./rotate_gray/hondana5/2.jpg
+.‘h ~- I: a
+£4: E 2
+‘* g
+‘ f 1‘33. 1).“,
+-4 vrw’ -
+
+file_name : ./rotate_gray/hondana5/3.jpg
+M; Lm ,oﬁfmmﬂ‘
+.22 nus/w" “kw-91V“ ‘
+
+------------------------------
+954528
+file_name : ./rotate_gray/954528/1.jpg
+11. :z‘ :‘iﬁﬁ. 1“; £ $
+
+file_name : ./rotate_gray/954528/4.jpg
+mm...
+
+file_name : ./rotate_gray/954528/6.jpg
+A €13 tn W. . u.
+
+file_name : ./rotate_gray/954528/0.jpg
+E? ' smiuuc TECHNIQUES ‘ 5i
+~ ”+— wi'ﬂD‘ﬂ-ANALYSISQEJ' : ~
+. , :nALGORm-IMS“ ﬂ“
+
+file_name : ./rotate_gray/954528/5.jpg
+m.
+
+file_name : ./rotate_gray/954528/2.jpg
+”if? "e? 'ENGf“ J. ,. oste
+
+file_name : ./rotate_gray/954528/3.jpg
+. -,:‘» «w» OW?” ‘t‘??'*""r‘f*w‘““"r7' ‘W' V ‘ > 7'
+,‘4
+
+------------------------------
+954525
+file_name : ./rotate_gray/954525/1.jpg
+A .. 7,714.14»; r w 'M
+
+file_name : ./rotate_gray/954525/4.jpg
+.IS'I' ,PROCESSI MG
+
+file_name : ./rotate_gray/954525/6.jpg
+, ,.~ :.» L’I“: j, '
+, 2Y0 museum
+4 ”Q“ "anm
+
+file_name : ./rotate_gray/954525/0.jpg
+Wm
+
+file_name : ./rotate_gray/954525/5.jpg
+‘ 7,_.\113)u'_k"' :‘mxwrlki?! MAW ;
+
+file_name : ./rotate_gray/954525/2.jpg
+, GN MEANALYSIS 0E"
+
+file_name : ./rotate_gray/954525/3.jpg
+> , ”SAM? mm Wit?“ E:
+
+------------------------------
+9452821192865
+file_name : ./rotate_gray/9452821192865/11.jpg
+W
+
+file_name : ./rotate_gray/9452821192865/7.jpg
+1mm . “WM¥N
+
+file_name : ./rotate_gray/9452821192865/1.jpg
+~ . ,anuN AND ANALYSIS? 0 1.
+
+file_name : ./rotate_gray/9452821192865/4.jpg
+WAIT
+
+file_name : ./rotate_gray/9452821192865/8.jpg
+.7— I ,
+
+file_name : ./rotate_gray/9452821192865/6.jpg
+" “\ 1~_;. '~ ‘V'VV'Z‘.
+
+file_name : ./rotate_gray/9452821192865/0.jpg
+Wﬁfﬁiﬁmi?”
+PROGRA“ . I .. -
+
+file_name : ./rotate_gray/9452821192865/5.jpg
+
+
+file_name : ./rotate_gray/9452821192865/10.jpg
+
+
+file_name : ./rotate_gray/9452821192865/9.jpg
+‘T W!
+
+file_name : ./rotate_gray/9452821192865/2.jpg
+3; Em ‘ E Dungeon-mm“
+
+file_name : ./rotate_gray/9452821192865/3.jpg
+
+
+file_name : ./rotate_gray/9452821192865/12.jpg
+M Ed
+

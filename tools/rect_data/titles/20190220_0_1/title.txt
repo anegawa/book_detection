@@ -1,0 +1,520 @@
+Will use tool 'Tesseract (sh)'
+Available languages: eng, jpn, jpn_vert
+Will use lang 'eng'
+=================================================
+------------------------------
+hon11
+file_name : ./rotate_trim/hon11/0.jpg
+£ SAMPLING TECHNIQUES ::
+
+file_name : ./rotate_trim/hon11/1.jpg
+
+
+file_name : ./rotate_trim/hon11/3.jpg
+uewREOB|Y PUN USYORIAS ‘USjRWOINY - SUISIOH 't
+
+file_name : ./rotate_trim/hon11/2.jpg
+| a mathematical
+theory of evidence
+mt Ry
+= 2207 |
+
+file_name : ./rotate_trim/hon11/4.jpg
+COMPUTER SCIENCE
+The PL/I tance To
+
+file_name : ./rotate_trim/hon11/5.jpg
+IE PhelDesign ana Analysis
+Z of Parallel Algorithms
+
+------------------------------
+hon3
+file_name : ./rotate_trim/hon3/0.jpg
+E a mathematical
+
+El Ie AOA Ab
+_ -
+
+a Ra ENT, NS) ee |
+
+file_name : ./rotate_trim/hon3/1.jpg
+as EDUCATION AND SOCIETY a be
+or Information Processing 92, Volume II Ed ;
+
+file_name : ./rotate_trim/hon3/3.jpg
+A FIRST COURSE IN i
+NUMERICAL ANALYSIS $
+
+file_name : ./rotate_trim/hon3/2.jpg
+mm SAMPLING TECHNIQUES ~~ ©
+ib Design and Analysis @&
+of Parallel Aleorithms :
+
+------------------------------
+hondana_eng
+file_name : ./rotate_trim/hondana_eng/0.jpg
+
+
+file_name : ./rotate_trim/hondana_eng/1.jpg
+Nel
+a COURSE WITH PL/L j= ENCY
+
+file_name : ./rotate_trim/hondana_eng/3.jpg
+J EE
+
+file_name : ./rotate_trim/hondana_eng/2.jpg
+| EEE TL ALR eed
+— we ponies 90 aE -
+
+file_name : ./rotate_trim/hondana_eng/6.jpg
+
+
+file_name : ./rotate_trim/hondana_eng/4.jpg
+Ea
+
+file_name : ./rotate_trim/hondana_eng/5.jpg
+PERTPRE
+APPLICATIONS OF MATHEMATICAL  g,|
+PROGRAMMING TECHNIQUES
+
+------------------------------
+hon2
+file_name : ./rotate_trim/hon2/0.jpg
+A FIRST COURSE It
+NUMERICAL ANAL
+
+file_name : ./rotate_trim/hon2/1.jpg
+
+
+file_name : ./rotate_trim/hon2/3.jpg
+E The Design and Analysis 3
+of Parallel Algorithms
+
+file_name : ./rotate_trim/hon2/2.jpg
+xen EDUCATION AND SOCIETY c
+Editor Information Processing 92, Volume II g
+
+file_name : ./rotate_trim/hon2/4.jpg
+© SAMPLING TECHNIQUES
+
+------------------------------
+hon8
+file_name : ./rotate_trim/hon8/0.jpg
+Ia] pges(eilis)
+S| sorting Algorithms a - |
+
+file_name : ./rotate_trim/hon8/1.jpg
+. RT :
+b — NTRODUCTION To OPERATI | Y V OUN AMERICAN EL Seven,
+APPLICATIONS (e] 3 LRT (15 TICAL RR
+PROGRAMMING TECK i
+
+file_name : ./rotate_trim/hon8/3.jpg
+Findlay &Watt F
+
+file_name : ./rotate_trim/hon8/2.jpg
+EE em
+
+file_name : ./rotate_trim/hon8/7.jpg
+
+
+file_name : ./rotate_trim/hon8/6.jpg
+~ROCESSING a oy
+
+file_name : ./rotate_trim/hon8/4.jpg
+[LNCS 1879 Paterson (Ed
+
+file_name : ./rotate_trim/hon8/5.jpg
+PASCAI
+
+------------------------------
+hondana6
+file_name : ./rotate_trim/hondana6/0.jpg
+LEE NAR
+3 LEE
+5.22% 2% |38;
+2 |=
+303
+
+file_name : ./rotate_trim/hondana6/1.jpg
+= EDUCATION AND SOCIETY a) bs)
+Pe re LEA | 3 EG
+
+file_name : ./rotate_trim/hondana6/3.jpg
+= Tle ss NPE Se
+
+file_name : ./rotate_trim/hondana6/2.jpg
+IN TTT toy Je
+
+file_name : ./rotate_trim/hondana6/6.jpg
+§ SAMPLING TECHNIQUES
+
+file_name : ./rotate_trim/hondana6/4.jpg
+£ The Design and Analysis &
+= of Parallel Algorithms p
+
+file_name : ./rotate_trim/hondana6/5.jpg
+Programming in 3rd Editiol
+
+------------------------------
+hon4
+file_name : ./rotate_trim/hon4/0.jpg
+
+
+file_name : ./rotate_trim/hon4/1.jpg
+
+
+file_name : ./rotate_trim/hon4/3.jpg
+CRE Ty
+
+file_name : ./rotate_trim/hon4/2.jpg
+theory of evidence
+
+file_name : ./rotate_trim/hon4/6.jpg
+xen EDUCATION AND SOCIETY [se]
+LT eee ZA CIN Cl Ry
+
+file_name : ./rotate_trim/hon4/4.jpg
+The Design and Analysis
+of Parallel Algorithms
+
+file_name : ./rotate_trim/hon4/5.jpg
+A FIRST COURSE IN —seh
+NUMERICAL ANALYSIS Foo
+
+------------------------------
+hon12
+file_name : ./rotate_trim/hon12/0.jpg
+xen EDUCATION AND SOCIETY fa) Eo
+[ore he] 92, Volume It Re
+
+file_name : ./rotate_trim/hon12/1.jpg
+£& The Design and Analysis
+% of Parallel Algorithms
+
+file_name : ./rotate_trim/hon12/3.jpg
+
+
+file_name : ./rotate_trim/hon12/2.jpg
+SAMPLING TECHNIQUES  :
+
+file_name : ./rotate_trim/hon12/4.jpg
+"05 "ASSEMBLERS AND LOADERS 0 WI BARRON MACDON
+\RING COMPUTER SYS TEMS
+erEASTETACHTNE PRINCIPLES J © TOT
+i ——
+STUDY OF SMAN  MACDONALDELSEV
+AGES BRYAN HIGM.
+RA A ais
+
+------------------------------
+hon
+file_name : ./rotate_trim/hon/0.jpg
+A FIRST COURSE IN -.
+NUMERICAL ANALYSIS Yi
+i SAMPLING TECHNIQUES J
+
+file_name : ./rotate_trim/hon/1.jpg
+ERT I STE TNS) EE
+
+file_name : ./rotate_trim/hon/3.jpg
+t The Design and Analysis LF
+of Parallel Algorithms ?
+
+file_name : ./rotate_trim/hon/2.jpg
+aken EDUCATION AND SOCIETY 0 oy
+Editor Information Processing 92, Volume II EY Eo
+
+------------------------------
+hondana3
+file_name : ./rotate_trim/hondana3/0.jpg
+aren EDUCATION AND SOCIETY a) -
+LE eT ET CC A Te 23 oa
+
+file_name : ./rotate_trim/hondana3/1.jpg
+i SAMP
+
+file_name : ./rotate_trim/hondana3/3.jpg
+Wirth Programming in TMODILR=2 3rd Editic
+
+file_name : ./rotate_trim/hondana3/2.jpg
+gst PARALLEL PROCESSING AND ARTIFICIAL INTELLIGENCE
+
+file_name : ./rotate_trim/hondana3/6.jpg
+ve RE
+
+file_name : ./rotate_trim/hondana3/4.jpg
+£ The Design and Analysis
+Z of Parallel Algorithms
+TE a its
+
+file_name : ./rotate_trim/hondana3/5.jpg
+
+
+------------------------------
+hon9
+file_name : ./rotate_trim/hon9/0.jpg
+a iY RR 22 Ey mm————.
+58 Computing Methods , ¢
+w= $07 ¢
+wT Volume wi
+
+file_name : ./rotate_trim/hon9/1.jpg
+I TTT iS
+
+file_name : ./rotate_trim/hon9/3.jpg
+;
+a — hs
+
+file_name : ./rotate_trim/hon9/2.jpg
+o™N OMPUTER - BASED LIBRAR YY NALD
+SS Ano wrorwamoneyerewe JPHENEY JST AND INFORMATION SysTEms J.P HENLEY MACDONA
+
+> EXECUTIVEPROGRAMSAND EDTEDBY GCUTTLE MACDON
+
+== OPERATING SYSTEMS ZPEEOBINSON 8
+—s" NG TECHNIOUES | mA or oO00 'MACDONALDRLSEVER.
+
+------------------------------
+hondana7
+file_name : ./rotate_trim/hondana7/0.jpg
+SAMPLING TECHNIQUES
+
+file_name : ./rotate_trim/hondana7/1.jpg
+| a mathematical
+theory of evidence
+
+file_name : ./rotate_trim/hondana7/3.jpg
+YE TE
+LED a Sy = RST
+
+file_name : ./rotate_trim/hondana7/2.jpg
+PU reddit
+AKEN == tion Processing 92. ot
+
+file_name : ./rotate_trim/hondana7/4.jpg
+£ The Design and Analysis Ie
+= of Parallel Algorithms
+
+------------------------------
+hondana4
+file_name : ./rotate_trim/hondana4/0.jpg
+i SAMPLING TECHNIQUES }
+
+file_name : ./rotate_trim/hondana4/1.jpg
+a
+LLL
+PROCESS
+
+I=L
+
+2h
+
+file_name : ./rotate_trim/hondana4/3.jpg
+E The Design and Analysis LE
+Z parallel Algorithms
+
+file_name : ./rotate_trim/hondana4/2.jpg
+‘Wirth Programming in or
+
+file_name : ./rotate_trim/hondana4/6.jpg
+xen EDUCATION AND SOCIETY Bl
+Information Processing 92. Volume II < EL
+
+file_name : ./rotate_trim/hondana4/4.jpg
+gE:35\%
+Ea
+i Tn A -H
+
+file_name : ./rotate_trim/hondana4/5.jpg
+LA ET ope
+
+------------------------------
+hon7
+file_name : ./rotate_trim/hon7/0.jpg
+z a mathematical
+theory of evidence
+: Co
+5 - BE Ce |
+A A A
+
+file_name : ./rotate_trim/hon7/1.jpg
+H "The Design and Analysis ed g
+of Parallel Algorithms 5
+
+file_name : ./rotate_trim/hon7/3.jpg
+
+
+file_name : ./rotate_trim/hon7/2.jpg
+i SAMPI
+
+file_name : ./rotate_trim/hon7/4.jpg
+
+
+file_name : ./rotate_trim/hon7/5.jpg
+Engeler
+
+------------------------------
+hon5
+file_name : ./rotate_trim/hon5/0.jpg
+IRS1T CUURSE 0
+IRS al ANALYSH
+
+file_name : ./rotate_trim/hon5/1.jpg
+a RSV Sol =
+
+file_name : ./rotate_trim/hon5/3.jpg
+JL
+Rp of evidence
+
+file_name : ./rotate_trim/hon5/2.jpg
+£ The Design and at & f
+3 of Parallel Algorithms £
+
+file_name : ./rotate_trim/hon5/4.jpg
+{SAMPLING TECHNIQUES Gi
+
+file_name : ./rotate_trim/hon5/5.jpg
+axen EDUCATION AND SOCIETY o N Er
+Eitor Information Processing 92. Volume 11 <
+
+------------------------------
+hon10
+file_name : ./rotate_trim/hon10/0.jpg
+USLILHIOB|Y PUN USYIBIAS ‘USIBWIOINY - 19UISIOH H TTTTTTTTTTTTI
+
+file_name : ./rotate_trim/hon10/1.jpg
+Ee IA UTER SCIENCE
+The PL/1 Language
+=
+
+file_name : ./rotate_trim/hon10/3.jpg
+Ee]
+A FIRST COURSE WITH PL/I STERLING AND
+
+file_name : ./rotate_trim/hon10/2.jpg
+a &
+gi 3
+Sl
+ER ie
+Ll] SE
+
+file_name : ./rotate_trim/hon10/7.jpg
+a mathematical
+theory of evidence
+
+file_name : ./rotate_trim/hon10/6.jpg
+TT TT TP
+
+file_name : ./rotate_trim/hon10/4.jpg
+JommD ne 2 An Information Security Ha 5 2
+
+file_name : ./rotate_trim/hon10/5.jpg
+8 g Computing Methods 2
+iz Volume ws
+
+------------------------------
+hondana9
+file_name : ./rotate_trim/hondana9/0.jpg
+| a mathematical
+theory of evidenc
+
+file_name : ./rotate_trim/hondana9/1.jpg
+axen EDUCATION PIN Gh
+Fel aL RE LE
+
+file_name : ./rotate_trim/hondana9/2.jpg
+RAR [BE CN STERN i
+
+\ bs Ie |
+
+& SAMPLING TECHNIQUES y
+
+E The Design and Analysis ke.
+Sf Parallel Algorithms
+
+------------------------------
+hon6
+file_name : ./rotate_trim/hon6/0.jpg
+E The Design and Analysis Ty
+2 of Parallel Algorithms £
+
+file_name : ./rotate_trim/hon6/1.jpg
+oy 5 EIS oe
+EES RE ELE
+
+file_name : ./rotate_trim/hon6/3.jpg
+= a mathematical
+theory of evidence
+
+file_name : ./rotate_trim/hon6/2.jpg
+AUR TET
+
+file_name : ./rotate_trim/hon6/4.jpg
+f£ SAMPLING TECHNIQUES >
+
+file_name : ./rotate_trim/hon6/5.jpg
+iv pun ueudeids ‘usjewolny - ISWSISHE
+
+------------------------------
+hondana10
+file_name : ./rotate_trim/hondana10/0.jpg
+E The Design and Analysis
+of Parallel Algorithms
+
+file_name : ./rotate_trim/hondana10/1.jpg
+~ SAMPLING TECHNIQUES
+
+file_name : ./rotate_trim/hondana10/3.jpg
+
+
+file_name : ./rotate_trim/hondana10/2.jpg
+a mathematical
+| theory of evidence
+
+file_name : ./rotate_trim/hondana10/4.jpg
+Akev EDUCATION AND SOCIETY
+EG LTTE LEER) AIT
+
+file_name : ./rotate_trim/hondana10/5.jpg
+RE
+
+------------------------------
+hondana8
+file_name : ./rotate_trim/hondana8/0.jpg
+NS
+| =
+i Nz : ; Fk
+BN | samy; TECHNIQUES ==
+_x/2
+| or NPN a a
+ILS ibe 2 hl
+a mathematica] a
+theory of evidence = )3
+on 8 A
+
+------------------------------
+hondana5
+file_name : ./rotate_trim/hondana5/0.jpg
+2 BGR eas RTE |
+
+file_name : ./rotate_trim/hondana5/1.jpg
+The Design and Analysis LE
+of Parallel Algorithms
+
+file_name : ./rotate_trim/hondana5/3.jpg
+«en EDUCATION AND SOCIELY
+ETRY, JR YL
+
+file_name : ./rotate_trim/hondana5/2.jpg
+Pp 2 21s
+Any TORE BS
+py STE £
+pe FI 5
+
+file_name : ./rotate_trim/hondana5/4.jpg
+IE UA N{-HDIR- Sie
+
+file_name : ./rotate_trim/hondana5/5.jpg
+~ CAMPLING TECHNIQUES
+

@@ -1,0 +1,513 @@
+Will use tool 'Tesseract (sh)'
+Available languages: eng, jpn, jpn_vert
+Will use lang 'eng'
+=================================================
+------------------------------
+hon11
+file_name : ./rotate_trim2/hon11/0.jpg
+HE SINOINHDIL ONITdWVS ©
+
+file_name : ./rotate_trim2/hon11/1.jpg
+EE TL "Tr rm PYG CN |
+
+file_name : ./rotate_trim2/hon11/3.jpg
+R. Herschel - Automaten, Sprachen und Algorithmen
+
+file_name : ./rotate_trim2/hon11/2.jpg
+——,—TT
+men
+Ell 227) 4 a
+Rl de
+ERIE CR eee i]
+JASE fing] g
+
+file_name : ./rotate_trim2/hon11/4.jpg
+Wy ro Ld oy,
+AONHIOg HILNIWOA
+
+file_name : ./rotate_trim2/hon11/5.jpg
+= IAC 3 | uj Bune 601d YHIM
+EHEC ACCEL: ELIE
+al =
+
+------------------------------
+hon3
+file_name : ./rotate_trim2/hon3/0.jpg
+3 TE | RT aPC AME
+EEL PE NCR ARLE} i
+Jeoneuayjewx Be g
+
+file_name : ./rotate_trim2/hon3/1.jpg
+a > 11 WNJOA ‘76 DUlssS0Id UOHELLIOIL oy
+A S BRE eto Te Ae Ih meri
+
+file_name : ./rotate_trim2/hon3/3.jpg
+= SISATYNY TYOIRIINNN
+i NI 3SHN0D LSHId V
+
+file_name : ./rotate_trim2/hon3/2.jpg
+) SWYILIOS[ GALLEN Jo i Ly
+@ sisAjeuy pue uso YL =
+E SINOINHDIL ONIAWYS © Be
+
+------------------------------
+hondana_eng
+file_name : ./rotate_trim2/hondana_eng/0.jpg
+SN
+
+file_name : ./rotate_trim2/hondana_eng/1.jpg
+DONIME3LS Id HUM 3SHNOD Jest
+pn TN 1 AL 9 \ HATA
+
+file_name : ./rotate_trim2/hondana_eng/3.jpg
+28
+; Sy
+q - STII ash
+
+file_name : ./rotate_trim2/hondana_eng/2.jpg
+JR a Ih (01111 § Bs 4
+
+file_name : ./rotate_trim2/hondana_eng/6.jpg
+
+
+file_name : ./rotate_trim2/hondana_eng/4.jpg
+me
+
+file_name : ./rotate_trim2/hondana_eng/5.jpg
+rod Elle De ETRE LILI
+PURI EIN EC IRE EEL
+" EEEURTE
+
+------------------------------
+hon2
+file_name : ./rotate_trim2/hon2/0.jpg
+Boi TVOIMINNN
+1 3SHNO0ID LSHI4 V
+
+file_name : ./rotate_trim2/hon2/1.jpg
+
+
+file_name : ./rotate_trim2/hon2/3.jpg
+SWYIIO3[Y [d[[eied JO 2
+Lo HONEA RI CETg EAR 5
+
+file_name : ./rotate_trim2/hon2/2.jpg
+> 11 SWN[OA ‘76 Buissed01d UONBULIOJU owes
+5 AL3IDOS ANY NOILYDONad =
+
+file_name : ./rotate_trim2/hon2/4.jpg
+SINOINHDIL ONITAWYS §
+
+------------------------------
+hon8
+file_name : ./rotate_trim2/hon8/0.jpg
+§ oe Eat e Clay git ECC
+v Clee) so [2S]
+
+file_name : ./rotate_trim2/hon8/1.jpg
+-. fbb ln [FN § PL Ye
+a RII) HHL Eo] RACING Eri)
+— MALSAS OnLy, QLNOLINGOY yy, =>
+ay uoys; e
+|| oem nn. —_—
+
+file_name : ./rotate_trim2/hon8/3.jpg
+3
+2 Heme Aeipui
+
+file_name : ./rotate_trim2/hon8/2.jpg
+EE aa Compilentechnik
+
+file_name : ./rotate_trim2/hon8/7.jpg
+PY 0 BL dai IS nba
+NTT LA Rodi
+
+file_name : ./rotate_trim2/hon8/6.jpg
+ern uu RY of RL Er BYTE
+
+file_name : ./rotate_trim2/hon8/4.jpg
+(Pd) Usd 681 SON
+
+file_name : ./rotate_trim2/hon8/5.jpg
+L0G
+
+------------------------------
+hondana6
+file_name : ./rotate_trim2/hondana6/0.jpg
+oY 2
+Ll fer 2
+A) TEs ZF
+EE] Lge
+
+file_name : ./rotate_trim2/hondana6/1.jpg
+3 > IE NZ ee en
+© PUE 0 ol e NAN (el ih mly ek Ry
+
+file_name : ./rotate_trim2/hondana6/3.jpg
+TTC (CITC LU SRE 0 MERLE R=
+
+file_name : ./rotate_trim2/hondana6/2.jpg
+
+
+file_name : ./rotate_trim2/hondana6/6.jpg
+SINDINHDIL ONITAWYS
+
+file_name : ./rotate_trim2/hondana6/4.jpg
+? CD ELLA A CLA 8 LEE
+@& BONER ERT CETq EL =
+
+file_name : ./rotate_trim2/hondana6/5.jpg
+ompa pig. Z=W INCOM ui buiwwessoly |
+
+------------------------------
+hon4
+file_name : ./rotate_trim2/hon4/0.jpg
+IE TY Y [Th Pr SPY | |)
+
+file_name : ./rotate_trim2/hon4/1.jpg
+2 SINDINHDAL ONITWVS
+
+file_name : ./rotate_trim2/hon4/3.jpg
+CL F1:0) 8)
+
+file_name : ./rotate_trim2/hon4/2.jpg
+)OUSPIAD 10 AIO
+
+file_name : ./rotate_trim2/hon4/6.jpg
+be 11 BWN|OA ‘76 BuissaI0L] UOHEWIOM] Joya
+b+ ALTOS ANY NOlLyonad "=v
+
+file_name : ./rotate_trim2/hon4/4.jpg
+suryod[y [rresed jo
+ACA CR CET EEL A
+
+file_name : ./rotate_trim2/hon4/5.jpg
+Bll SISATYNY TYOI4IINNN
+at NI 3S¥N0D LSYHI4 V
+
+------------------------------
+hon12
+file_name : ./rotate_trim2/hon12/0.jpg
+s EE] LETC
+Fld 4 ETT LAS IAA:
+
+file_name : ./rotate_trim2/hon12/1.jpg
+SWYILIO3[Y [d[[eled Jo £
+BOYS EIA NER 12 EYE SEO =
+
+file_name : ./rotate_trim2/hon12/3.jpg
+EE | oN |e BE PSO GB |
+
+file_name : ./rotate_trim2/hon12/2.jpg
+: SINOINHIAL ONITdWYS
+
+file_name : ./rotate_trim2/hon12/4.jpg
+S39V!
+ASR/OTYNOCV NYWOIH NVAHS ay AQNLS
+ai
+SW3LSAS HILNdNO: Y) ONIHY
+OOM a GNV SHATANASSY, C2
+
+------------------------------
+hon
+file_name : ./rotate_trim2/hon/0.jpg
+E  SINDINHDIL ONITAWYS
+Bo SISATYNY TVOINIINNN
+i NI 3S¥N0ID LSYI4 ¥
+
+file_name : ./rotate_trim2/hon/1.jpg
+| eect apSaNICHRNE—HRNHE S|
+
+file_name : ./rotate_trim2/hon/3.jpg
+: SunILIos|y [o[e1ed 30 =
+£3 siskreuy pue udsa( YL El
+
+file_name : ./rotate_trim2/hon/2.jpg
+le > NETL TNE AN CIT CR ToT RTC I oJ
+[=] ALFIDOS ANV NOILyoNad "iv
+
+------------------------------
+hondana3
+file_name : ./rotate_trim2/hondana3/0.jpg
+I ba [1 SWN|OA ‘76 BuIsSI0I] UOPRULIOJ] Joup3
+Li] w ALFIDOS ANY NOLLYDONAaT av
+
+file_name : ./rotate_trim2/hondana3/1.jpg
+dWVS
+
+file_name : ./rotate_trim2/hondana3/3.jpg
+pwpa pie Z=W MH HGOU w bunuwesbold yim
+
+file_name : ./rotate_trim2/hondana3/2.jpg
+ETT Ea RE La T=:
+
+file_name : ./rotate_trim2/hondana3/6.jpg
+aii
+
+file_name : ./rotate_trim2/hondana3/4.jpg
+ASA AAA
+sunpjLody [dete jo  £
+sisfeuy pue usa ayy I
+
+file_name : ./rotate_trim2/hondana3/5.jpg
+ae Elk
+
+------------------------------
+hon9
+file_name : ./rotate_trim2/hon9/0.jpg
+im | wnjoA 2 ®
+£  spous|\ Sunndwo) 38
+
+file_name : ./rotate_trim2/hon9/1.jpg
+ese SN 11) BURN
+
+file_name : ./rotate_trim2/hon9/3.jpg
+p—
+a . 3
+
+file_name : ./rotate_trim2/hon9/2.jpg
+- i ~ |
+CUSHION SRS RE SE ONLIVEIA0
+OI FULOOABCELAE NV SWVHOOMA 3ALLNDIXE OO
+WALSAS NOLIVINHOINI ONY J
+TINO ATFINGHAT Juvmemazeva. W3INdNGD NO
+
+------------------------------
+hondana7
+file_name : ./rotate_trim2/hondana7/0.jpg
+SINOINHJIL ONITAWVS ~~ £
+
+file_name : ./rotate_trim2/hondana7/1.jpg
+LE NEI RL] SY
+TRONJBWIAY BW B 3
+
+file_name : ./rotate_trim2/hondana7/3.jpg
+ILC | To TC [=e 10 ET LG BJO
+
+file_name : ./rotate_trim2/hondana7/2.jpg
+EYE Ei lacs
+FL CL sai +)
+
+file_name : ./rotate_trim2/hondana7/4.jpg
+SunILIoZY [ojjeled Jo. 2
+5 sishfeuy pue usa ayy 2
+
+------------------------------
+hondana4
+file_name : ./rotate_trim2/hondana4/0.jpg
+x SINOINHDAL ONITAWYS  ¢
+
+file_name : ./rotate_trim2/hondana4/1.jpg
+RTT TE: CORE T=
+
+file_name : ./rotate_trim2/hondana4/3.jpg
+& swYIos[y Pl +d 3+ =
+2 siskfeuy pue RE CETa Et AN Cs
+
+file_name : ./rotate_trim2/hondana4/2.jpg
+a pie Ze IOCOM Wi BuruwesBold YUM
+
+file_name : ./rotate_trim2/hondana4/6.jpg
+gi > JE I ec)
+3 I A131D0S ANV NOLLYONa3 "=
+
+file_name : ./rotate_trim2/hondana4/4.jpg
+A Gali
+lai 8
+a
+
+file_name : ./rotate_trim2/hondana4/5.jpg
+
+
+------------------------------
+hon7
+file_name : ./rotate_trim2/hon7/0.jpg
+ES
+ERG TER (RELL
+frch)sizniez]epiciii
+
+file_name : ./rotate_trim2/hon7/1.jpg
+ES ERLE NAC LE ELI
+g Eo HOS Re CE g EL H
+
+file_name : ./rotate_trim2/hon7/3.jpg
+batalla lind.
+BK Rm) Ly ory gus
+
+file_name : ./rotate_trim2/hon7/2.jpg
+JdWYS
+
+file_name : ./rotate_trim2/hon7/4.jpg
+To naten, Sprachen und Algor
+
+file_name : ./rotate_trim2/hon7/5.jpg
+iogebug i 0BDABUDY (DUIIO
+
+------------------------------
+hon5
+file_name : ./rotate_trim2/hon5/0.jpg
+ISATYNY RY 31)
+A eunn) 1SHI
+
+file_name : ./rotate_trim2/hon5/1.jpg
+SC [le 08 Toph ey Eau HB)
+
+file_name : ./rotate_trim2/hon5/3.jpg
+Jaci)
+gouapiad Jo AIOE
+
+file_name : ./rotate_trim2/hon5/2.jpg
+4 ELUTEISGHI AVA B12 1% 8 00) £3
+Er sis[euy pue uSisoq ayy =
+b
+
+file_name : ./rotate_trim2/hon5/4.jpg
+= SINOINHDIL ONIdWYS  ¢
+
+file_name : ./rotate_trim2/hon5/5.jpg
+BE OR 4 11 SUMIOA Z6 Ba I Lum
+© AIFIDOS ANY NOILYDONAd
+
+------------------------------
+hon10
+file_name : ./rotate_trim2/hon10/0.jpg
+Sn R.Herschel - Automaten, Sprachen und Algorithmen
+
+file_name : ./rotate_trim2/hon10/1.jpg
+CETTE) TEE ae
+HONHIOS MIT TIT a
+
+file_name : ./rotate_trim2/hon10/3.jpg
+I www
+fa VAR I= EAE) a= RI Eee o isc E] hb
+“SANTINS HALNAWNOO ANY NITE es]
+
+file_name : ./rotate_trim2/hon10/2.jpg
+= 27) Tags
+
+EME
+
+ERIE
+
+EAE
+
+ks Ly
+EE
+
+file_name : ./rotate_trim2/hon10/7.jpg
+ERLE IER (SE)
+TEOTJEWAY]BW B g
+
+file_name : ./rotate_trim2/hon10/6.jpg
+RECT SR 11H ESAT
+
+file_name : ./rotate_trim2/hon10/4.jpg
+= [8 BH fijlN3G UOIJBUIOMU| UY SW QW ujor
+
+file_name : ./rotate_trim2/hon10/5.jpg
+1B | SWN|OA z &
+:  spouldIN Sunndwo) 32
+
+------------------------------
+hondana9
+file_name : ./rotate_trim2/hondana9/0.jpg
+I—— SWEETIE
+GLC ER JRL
+Fc ancionce)opiciio cs
+
+file_name : ./rotate_trim2/hondana9/1.jpg
+EIT La Sea uoneWLION] oyp3
+IRE Te Te bale Im glek] id
+
+file_name : ./rotate_trim2/hondana9/2.jpg
+Fa neer ACI ag 3
+& BOIS jelbesd jij CETal ELAR
+E SINOINHIIL INITdWVS i :
+| Sl | [SX Te ICS (CH
+
+------------------------------
+hon6
+file_name : ./rotate_trim2/hon6/0.jpg
+£ EUS EC UAC ILL: BEA 4
+LJ sisA[euy pue uSisaq aylL =
+
+file_name : ./rotate_trim2/hon6/1.jpg
+SL
+
+file_name : ./rotate_trim2/hon6/3.jpg
+ERIC NAC ORE CLLL
+fra sicuclpli fg gE
+
+file_name : ./rotate_trim2/hon6/2.jpg
+: IEEE | TST FT S
+
+file_name : ./rotate_trim2/hon6/4.jpg
+Zf SINDINHDIL ONIAWYS ©
+
+file_name : ./rotate_trim2/hon6/5.jpg
+= Herschel - Automaten, Sprachen und Alg
+
+------------------------------
+hondana10
+file_name : ./rotate_trim2/hondana10/0.jpg
+JE [a[[ered jo £
+CTSA Re Rb: Cla A A
+
+file_name : ./rotate_trim2/hondana10/1.jpg
+SINOINHIIL INITdWVS
+
+file_name : ./rotate_trim2/hondana10/3.jpg
+ILS | ToXC (STRITCH |
+LE ERR a
+
+file_name : ./rotate_trim2/hondana10/2.jpg
+CLC CER (SGT
+JERSE] plzlii 0) gE
+
+file_name : ./rotate_trim2/hondana10/4.jpg
+All CTY CLES ae pel
+Lake [1 eI rR
+
+file_name : ./rotate_trim2/hondana10/5.jpg
+6, 4
+
+------------------------------
+hondana8
+file_name : ./rotate_trim2/hondana8/0.jpg
+NN . ls
+AHE 80UapIAL Jo A100ty
+L : [ERE gS
+Er
+bss i [EPA ee VE TT 3
+Ca 3 fin [riShea- .
+= SIONAL ONigys —
+. i ie
+4
+
+------------------------------
+hondana5
+file_name : ./rotate_trim2/hondana5/0.jpg
+EEE TTR US 0 RELL J
+
+file_name : ./rotate_trim2/hondana5/1.jpg
+@ suo y [d[[ere] JO
+siskteuy pue ulisacy au 1
+
+file_name : ./rotate_trim2/hondana5/3.jpg
+2wn|OA ‘Tb DUS AG He SE
+IRE oo. el NA {eli let] Ls
+
+file_name : ./rotate_trim2/hondana5/2.jpg
+Pha BEd
+
+EE =
+lB a he nie
+ab Bas
+ERG >
+
+file_name : ./rotate_trim2/hondana5/4.jpg
+1 SECT TOT Ir Sr pa
+
+file_name : ./rotate_trim2/hondana5/5.jpg
+SINOINHIAL ONIldWVS
+

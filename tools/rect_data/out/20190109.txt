@@ -1,0 +1,449 @@
+Will use tool 'Tesseract (sh)'
+Available languages: eng, jpn, jpn_vert
+Will use lang 'eng'
+------------------------------
+hondana_eng
+file_name : ./trims/hondana_eng/0.jpg
+
+file_name : ./trims/hondana_eng/15.jpg
+
+file_name : ./trims/hondana_eng/9.jpg
+
+file_name : ./trims/hondana_eng/18.jpg
+
+file_name : ./trims/hondana_eng/1.jpg
+
+file_name : ./trims/hondana_eng/14.jpg
+|
+file_name : ./trims/hondana_eng/11.jpg
+3
+file_name : ./trims/hondana_eng/3.jpg
+-
+ir
+“%
+aE
+I=
+fol
+i 2
+ule
+fu
+=
+file_name : ./trims/hondana_eng/20.jpg
+a
+=
+2
+3
+3
+file_name : ./trims/hondana_eng/2.jpg
+TE
+file_name : ./trims/hondana_eng/7.jpg
+|
+:
+file_name : ./trims/hondana_eng/6.jpg
+|
+file_name : ./trims/hondana_eng/21.jpg
+
+file_name : ./trims/hondana_eng/12.jpg
+
+file_name : ./trims/hondana_eng/17.jpg
+troduction
+
+13
+frome
+Thoory
+eat
+
+pA :
+file_name : ./trims/hondana_eng/16.jpg
+A
+|
+file_name : ./trims/hondana_eng/8.jpg
+
+file_name : ./trims/hondana_eng/4.jpg
+J
+file_name : ./trims/hondana_eng/19.jpg
+
+file_name : ./trims/hondana_eng/10.jpg
+Bs
+file_name : ./trims/hondana_eng/13.jpg
+|
+file_name : ./trims/hondana_eng/5.jpg
+i
+------------------------------
+hondana2
+file_name : ./trims/hondana2/0.jpg
+| Eeenaheindieiidiidiadiiiiidanni J
+mie fh EEE 5
+
+cope DEER AP ml 5 hE .
+
+WELT iodie BBE ARERR SE me Po "¥
+file_name : ./trims/hondana2/15.jpg
+
+file_name : ./trims/hondana2/9.jpg
+
+file_name : ./trims/hondana2/18.jpg
+A
+file_name : ./trims/hondana2/1.jpg
+
+file_name : ./trims/hondana2/24.jpg
++
+=n
+file_name : ./trims/hondana2/14.jpg
+
+file_name : ./trims/hondana2/11.jpg
+
+file_name : ./trims/hondana2/3.jpg
+
+file_name : ./trims/hondana2/20.jpg
+
+file_name : ./trims/hondana2/2.jpg
+
+file_name : ./trims/hondana2/7.jpg
+F
+file_name : ./trims/hondana2/6.jpg
+E
+file_name : ./trims/hondana2/21.jpg
+So HOE ER ee .
+ERE
+file_name : ./trims/hondana2/12.jpg
+
+file_name : ./trims/hondana2/17.jpg
+A aD TT mm em ANE rr,
+2 TEI NN TUNE .
+=r = Tai
+= = :
+file_name : ./trims/hondana2/16.jpg
+HB
+file_name : ./trims/hondana2/28.jpg
+
+file_name : ./trims/hondana2/26.jpg
+\
+file_name : ./trims/hondana2/8.jpg
+2 ATNINNZRSS °
+file_name : ./trims/hondana2/4.jpg
+<3
+file_name : ./trims/hondana2/19.jpg
+
+file_name : ./trims/hondana2/10.jpg
+a
+file_name : ./trims/hondana2/23.jpg
+7
+
+|
+J
+1
+file_name : ./trims/hondana2/30.jpg
+
+file_name : ./trims/hondana2/29.jpg
+’
+I
+J
+1
+file_name : ./trims/hondana2/13.jpg
+
+file_name : ./trims/hondana2/27.jpg
+LL,
+i
+¥
+A
+i!
+¢
+file_name : ./trims/hondana2/25.jpg
+4
+file_name : ./trims/hondana2/5.jpg
+E.
+i
+file_name : ./trims/hondana2/22.jpg
+
+------------------------------
+hondana6
+file_name : ./trims/hondana6/0.jpg
+praniy
+[1
+pie
+hy
+file_name : ./trims/hondana6/15.jpg
+wh
+>
+=
+fn]
+=
+=
+file_name : ./trims/hondana6/9.jpg
+og]
+pst
+E==)
+=
+=
+m
+=
+2
+[2]
+p=
+[3]
+=
+[=]
+p=
+El
+fis
+2
+=
+=
+jas
+Jt
+&
+=
+Z
+j=
+file_name : ./trims/hondana6/1.jpg
+
+file_name : ./trims/hondana6/14.jpg
+=
+=x
+=
+e
+a
+file_name : ./trims/hondana6/11.jpg
+
+file_name : ./trims/hondana6/3.jpg
+
+file_name : ./trims/hondana6/2.jpg
+A
+file_name : ./trims/hondana6/7.jpg
+pL
+file_name : ./trims/hondana6/6.jpg
+i
+H
+d
+|
+file_name : ./trims/hondana6/12.jpg
+
+file_name : ./trims/hondana6/16.jpg
+
+file_name : ./trims/hondana6/8.jpg
+
+file_name : ./trims/hondana6/4.jpg
+Ty
+file_name : ./trims/hondana6/10.jpg
+E
+ga
+)
+E>
+gx
+gE
+El
+&
+file_name : ./trims/hondana6/13.jpg
+{
+|
+file_name : ./trims/hondana6/5.jpg
+-4:4
+ERs
+EF
+iz
+et
+4
+LE
+H
+------------------------------
+hondana3
+file_name : ./trims/hondana3/0.jpg
+ney EDUCATION AND SOCIETY far} Ex
+Er Information Processing 92, Volume If < pis
+file_name : ./trims/hondana3/1.jpg
+
+file_name : ./trims/hondana3/3.jpg
+EER CAN EEE
+file_name : ./trims/hondana3/2.jpg
+SAMPLING TECHNIQUES 3
+file_name : ./trims/hondana3/7.jpg
+) Eh 4 11
+file_name : ./trims/hondana3/6.jpg
+The Design and Analysis .
+of Paralle] Algorithms 8
+file_name : ./trims/hondana3/8.jpg
+
+file_name : ./trims/hondana3/4.jpg
+“Wiith Programming in ITLL TINE RCS
+file_name : ./trims/hondana3/5.jpg
+Pr
+------------------------------
+hondana7
+file_name : ./trims/hondana7/0.jpg
+| . wi of evidence [
+i SAMPLING TECHNIQUES
+file_name : ./trims/hondana7/1.jpg
+fireman fade land od cS
+EM information Processing 92, Volume II Fr
+file_name : ./trims/hondana7/3.jpg
+
+file_name : ./trims/hondana7/2.jpg
+
+------------------------------
+hondana4
+file_name : ./trims/hondana4/0.jpg
+HH
+1:
+EF.
+3
+}
+x
+4
+EX
+file_name : ./trims/hondana4/9.jpg
+A
+file_name : ./trims/hondana4/1.jpg
+
+file_name : ./trims/hondana4/14.jpg
+La ET SNR ba
+file_name : ./trims/hondana4/11.jpg
+
+file_name : ./trims/hondana4/3.jpg
+CoOHAAN
+wr
+Fd
+=
+«
+=
+=
+>
+
+—
+mm
+o
+=
+-
+2
+<=
+m
+wr
+file_name : ./trims/hondana4/2.jpg
+By
+I
+file_name : ./trims/hondana4/7.jpg
+
+file_name : ./trims/hondana4/6.jpg
+RE
+TENT
+PS
+ES]
+4
+[3
+jas]
+3
+f=
+=
+&
+oe]
+&
+P=
+p=
+=
+p=
+E
+ox.
+jo
+=
+=
+file_name : ./trims/hondana4/12.jpg
+
+file_name : ./trims/hondana4/8.jpg
+Pe
+i=
+Rud
+Mel
+23
+~-
+o:
+Er
+d
+J
+g a
+Ee
+Ea
+ER
+LY
+3
+&
+file_name : ./trims/hondana4/4.jpg
+Ee
+file_name : ./trims/hondana4/10.jpg
+
+file_name : ./trims/hondana4/13.jpg
+E
+file_name : ./trims/hondana4/5.jpg
+
+------------------------------
+hondana9
+file_name : ./trims/hondana9/0.jpg
+Safer ) 1 COChisy & /
+1
+4 m
+El
+SH g
+HX] =
+=x I SD
+FS] § =
+ea Py ry
+EE 2
+s i 1=
+2 {2
+oy 5
+5 1%
+. rE yr -
+------------------------------
+hondana10
+file_name : ./trims/hondana10/0.jpg
+
+file_name : ./trims/hondana10/1.jpg
+E
+£
+file_name : ./trims/hondana10/3.jpg
+
+file_name : ./trims/hondana10/2.jpg
+3 fr a (og
+SAMPLING TECHNIQUES 3
+file_name : ./trims/hondana10/4.jpg
+aan EDUCATION AND SOCIETY a)
+Lt Sn PURE SE UE RT < E
+------------------------------
+hondana8
+file_name : ./trims/hondana8/0.jpg
+rn 5
+i COCHRAN IY
+2 i |
+~! FS =
+al I:
+gE 232 z
+HE |C
+PY EE =
+™
+: 1 =
+§ =
+2 2
+a
+Fuk]
+------------------------------
+hondana5
+file_name : ./trims/hondana5/0.jpg
+“AEN ER ORL LES VE F
+a ad Parallel Algorithms & i
+Wirth Py in MFODULA-2 ard Edition o>’
+
+3 H TIT pa TREY INTELLIGENCE
+SAMPLING TECHNIQUES gE
+file_name : ./trims/hondana5/1.jpg
+
+file_name : ./trims/hondana5/3.jpg
+os
+file_name : ./trims/hondana5/2.jpg
+yo
+§
+file_name : ./trims/hondana5/6.jpg
+Fahad rte Sa aa hg stir
+file_name : ./trims/hondana5/4.jpg
+«en EDUCATION AND SOCIETY fou
+wma TE E
+file_name : ./trims/hondana5/5.jpg
+
